@@ -1,3 +1,3 @@
  week 1 content
 
-![Week 1 task](file:///Users/jinni/Desktop/Week%201%20task.png)
+![Week 1 task](https://drive.google.com/file/d/1yxR8ktBxze1-_Y1edxSEt-JZVlsXn0P6/view?usp=sharing)
