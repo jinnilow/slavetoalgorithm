@@ -17,7 +17,7 @@ Through looking at other group’s processes, it was interesting to see how diff
 
 ## Artist Research
 
-As much as I love looking at David Szakaly and Raven Kwok’s visual art pieces and 3D designs, I cannot stop thinking about Lauren McCarthy’s work. One example Karen showed us,‘us+’, is to me, a very positive example of how AI can help a lot of us with our social cues and help us realise how we might come off as. It is also interesting to realise and think how algorithms come to play with these projects.  
+As much as I love looking at David Szakaly and Raven Kwok’s visual art pieces and 3D designs, I cannot stop thinking about Lauren McCarthy’s work. One example Karen showed us,‘us+’, is to me, a very positive example of how this new tech can help a lot of us with our social cues and help us realise how we might come off as. It is also interesting to realise and think how algorithms come to play with these projects.  
 
 I then went ahead to check out her other works and found too many interesting ones, working around the constructs of social relationships - which I then discovered was what she based most or all of her work on. These are particularly the ones that I couldn’t stop thinking about. 
 - https://lauren-mccarthy.com/Follower
@@ -27,7 +27,7 @@ I then went ahead to check out her other works and found too many interesting on
 Some of it, I couldn’t help but feel unsettled yet somewhat relatable, which made me feel unsettled again. 
 For example, her work “Follower” which takes a social media follower into a real life one, made me feel very repelled at the start. It felt almost like it was an invasion of privacy and I couldn't understand why anyone would want that. However, the more I looked into it, the more I found myself actually wanting the experience, which made me then question a lot about myself or and how these social relationships actually play a part in my life or how I think. 
 
-Another instance is 'pplkpr', which is an app that tracks and helps you manage your relationships by tracking your interactions and helping you decide if someone is right for you or not. Personally, I thought it was a genius ideas as it would give me a definitive excuse as to why I would choose not to hang out with someone anymore. However, I can’t help but think of how much the AI, again plays a role in deciding something for me. Although I do know that in a more positive light, the AI does help in a lot of ways too. 
+Another instance is 'pplkpr', which is an app that tracks and helps you manage your relationships by tracking your interactions and helping you decide if someone is right for you or not. Personally, I thought it was a genius ideas as it would give me a definitive excuse as to why I would choose not to hang out with someone anymore. However, I can’t help but think of how much the technology or AI(?), again plays a role in deciding something for me. Although I do know that in a more positive light, the technology does help in a lot of ways too. 
 
 A piece that I really like visually and conceptually is 'Changing Room'. I thought the way she used the light, visuals, cues etc were so genius in creating an emotion for everyone present. The interactivity, the togetherness of everyone experiencing something somewhat made me feel warm. Although, in saying that, the possibility of AI controlling how we feel is to me again, unsettling. Her works remind me of the show 'Black Mirror' (a show that talks about a dystopian reality and the consequences of technology). 
 
