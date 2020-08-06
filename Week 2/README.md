@@ -18,7 +18,10 @@ As for the outcome, I ended up listening to classical tunes on iHeart Radio.
 
 In this class, we learnt how to code basic shapes and trigger some form of interaction in Processing. Learning how to code basic shapes was fine, but learning how to work out the maths for certain animation is somewhat tricky. In this activity, we used what we learned in class to creat a self portrait through Processing. 
 
+Attached below is my self portrait. I coded this so that there would be a background change whenever you move your cursor. The task itself made me learn how to code  different shapes like an arc and a triangle, which was really interesting to figure/ understand how every shape have a different parameter.
+
 <img src="https://i.ibb.co/G2pyNWs/Screenshot-2020-08-06-at-8-25-32-PM.png" alt="Screenshot-2020-08-06-at-8-25-32-PM" border="0">
 
-Attached above is my self portrait. I coded this so that there would be a background change whenever you move your cursor. However, I decided to take it a step further to try and rotate my pigtails. 
+I then remixed Yasmin's static portrait so that there would be a background change, and that the flowers will rotate whenever the cursor moves too. It was super interesting to figure out how to make sure the three flower rotations would stay put in their respective places. I then found out the resetMatrix(); function, which resets each translation, so it would be possible to do multiple translations and rotations which I thought was really cool.
+<img src="https://i.ibb.co/P1rS89q/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">
 
