@@ -25,5 +25,5 @@ Attached below is my self portrait. I coded this so that there would be a backgr
 I then remixed Yasmin's static portrait so that there would be a background change, and that the flowers will rotate whenever the cursor moves as well. It was super interesting to figure out how to make sure the three flower rotations would stay in their respective places. I then found out the resetMatrix(); function, which resets each translation, so it would be possible to do multiple translations and rotations which I thought was really enlightening.
 <br />
 <br />
-<img src="https://i.ibb.co/P1rS89q/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">
+<img src="https://i.ibb.co/VNqPy0J/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">
 
