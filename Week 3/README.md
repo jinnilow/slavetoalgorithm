@@ -12,7 +12,7 @@ These were the two main ideas I decided to try out within the hour.
 With the first idea, I thought of using a cupboard door to create multiple strokes (by opening and closing the door) with a nail polish that I would attach with a string, to the door. However, the cupboards I had were either too tall or too low to work with and so, I decided to use a drawer in the kitchen which had the proper height to work with. First, I attached the nail polish to a string and strengthened the grip with a tape. I then taped the nail polish to the top drawer and taped paper to the bottom drawer as a canvas. To create those strokes, I had to open and close the drawer multiple times. 
 <br/> 
 <br/> 
-<img src="https://i.ibb.co/QbM8HBf/nail.gif" alt="nail" border="0">
+<a href="https://ibb.co/sCG9TBD"><img src="https://i.ibb.co/LrWdTGq/ezgif-com-optimize.gif" alt="ezgif-com-optimize" border="0"></a>
 <br/>
 <br/> 
 I thought the outcome was really pretty! This reminds me of a traditional brush stroke painting. I thought it was really interesting as to how we could create these paintings by integrating movements from other tools, right in our home as well.
