@@ -18,7 +18,7 @@ With the first idea, I thought of using a cupboard door to create multiple strok
 I thought the outcome was really pretty! This reminds me of a traditional brush stroke painting. I thought it was really interesting as to how we could create these paintings by integrating movements from other tools, right in our home as well.
 <br/>
 <br/> 
-<img src="https://i.ibb.co/5GWt7vM/Processed-with-VSCO-with-c1-preset.jpg" alt="Processed-with-VSCO-with-c1-preset" border="0" / width="500"/ >
+<img src="https://i.ibb.co/5GWt7vM/Processed-with-VSCO-with-c1-preset.jpg" alt="Processed-with-VSCO-with-c1-preset" border="0" width="500"/ >
 <br/>
 <br/>
 <br/> 
