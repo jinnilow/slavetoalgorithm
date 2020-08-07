@@ -25,13 +25,13 @@ I thought the outcome was really pretty! This reminds me of a traditional brush 
 With the second idea, I thought of using a hand mixer to create circular movements by attaching a Sharpie to the mixer. My initial plan was to place the paper in a bowl, but I then decided not to, just to explore the mulitple opportunities that could happen if I had a bigger surface. So initially, I tied two Sharpies to the mixer but the other colour fell out when I started the machine. In a matter of a few seconds, the orange Sharpie however created this splash effect that spreaded all over my countertop. 
 <br/>
 <br/> 
-<img src="https://i.ibb.co/Dz3y1hT/Processed-with-VSCO-with-c1-preset.jpg" alt="Processed-with-VSCO-with-c1-preset" border="0" />
+<a href="https://ibb.co/KbCk5dS"><img src="https://i.ibb.co/2WXQFxH/Processed-with-VSCO-with-c1-preset.jpg" alt="Processed-with-VSCO-with-c1-preset" border="0"></a>
 <br/>
 <br/> 
 I really liked the outcome of the artwork as it wasn't expected at all. The splash effect created this detailed, abstract artwork, which was really nice to see close-up.
 <br/>
 <br/> 
-<img src="https://i.ibb.co/2gh4VrN/Processed-with-VSCO-with-c1-preset.jpg" alt="Processed-with-VSCO-with-c1-preset" border="0" />
+<a href="https://ibb.co/18QWyN6"><img src="https://i.ibb.co/kQBCbT1/Processed-with-VSCO-with-c1-preset.jpg" alt="Processed-with-VSCO-with-c1-preset" border="0"></a>
 <br/>
 <br/> 
 This is the close-up from a part of the artwork created. I really loved the details and thought about how time efficient it was to create those details.
