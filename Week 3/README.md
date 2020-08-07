@@ -37,5 +37,4 @@ I really liked the outcome of the artwork as it wasn't expected at all. The spla
 This is the close-up from a part of the artwork created. I really loved the details and thought about how time efficient it was to create those details.
 <br/>
 <br/> 
-<a href="https://ibb.co/cTKD0Jc"><img src="https://i.ibb.co/vzCZp1x/IMG-2101.jpg" alt="IMG-2101" border="0"></a> <a href="https://ibb.co/pJVs4xW"><img src="https://i.ibb.co/3B68S7f/Processed-with-VSCO-with-d2-preset.jpg" alt="Processed-with-VSCO-with-d2-preset" border="0"></a>
-
+<img src="https://i.ibb.co/f0V4fMY/IMG-2101.jpg" alt="IMG-2101" border="0" width="200"/> <img src="https://i.ibb.co/vZyrLHs/Processed-with-VSCO-with-d2-preset.jpg" alt="Processed-with-VSCO-with-d2-preset" border="0" width="200"/>
