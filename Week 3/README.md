@@ -6,7 +6,7 @@ In today's class, we were challenged to create a non-human machine in an hour. I
 These were the two main ideas I decided to try within the hour.
 <br/> 
 <br/> 
-<a href="https://ibb.co/fpzMFND"><img src="https://i.ibb.co/qs3BjgJ/Cam-Scanner-08-07-2020-12-50-55-1.jpg" alt="Cam-Scanner-08-07-2020-12-50-55-1" border="0"></a>
+<img src="https://i.ibb.co/MnbQ8tz/Screenshot-2020-08-07-at-3-52-42-PM.png" alt="Screenshot-2020-08-07-at-3-52-42-PM" border="0" width="500"/> <img src="https://i.ibb.co/zSL54FD/Screenshot-2020-08-07-at-3-53-11-PM.png" alt="Screenshot-2020-08-07-at-3-53-11-PM" border="0" width="500"/>
 <br/> 
 <br/> 
 With the first idea, I thought of using a cupboard door to create multiple strokes (by opening and closing the door) with a nail polish that I would attach with a string. However, the cupboards I had were either too tall or too low to work with and so, I decided to use a drawer in the kitchen which was perfect to work with. First, I attached the nail polish to a string and strengthened the grip with a tape. I then taped the nail polish to the top drawer and taped paper to the bottom drawer as a canvas. To create those strokes, I had to open and close the drawer multiple times. 
