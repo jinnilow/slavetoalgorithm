@@ -38,3 +38,13 @@ This is the close-up from a part of the artwork created. I really loved the deta
 <br/>
 <br/> 
 <img src="https://i.ibb.co/f0V4fMY/IMG-2101.jpg" alt="IMG-2101" border="0" width="500"/> <img src="https://i.ibb.co/vZyrLHs/Processed-with-VSCO-with-d2-preset.jpg" alt="Processed-with-VSCO-with-d2-preset" border="0" width="500"/>
+
+
+## AI Research 
+I was poking around the internet to find generative/ parametric art design examples but couldn't find design examples other than architectural related ones. Then, I realised the proper term to use was 'algorithmic art' and I found this [community that explores AI](https://aiartists.org/) as a design tool and how it impacts the design world now.<br/> 
+
+I was excited as I finally found a community of practice that I felt tied/ drawn to and there are so many resources in the website as well. Artists, projects, tools, articles - you name it! They also have a page where they explain different terms that I found confusing at the start. For example, 'machine learning' or what even is an 'algorithm'? In the tools section, they also introduced this tool ['RunwayML'](https://runwayml.com/madewith/) which is designed for beginners to experiment with AI art without coding! As I was browsing through their projects, I even saw one that have already tried out an idea that I had in mind. <br/> 
+
+As I mentioned in the previous week, I am a visual learner. As I was brainstorming for ideas on the project pitch, I was thinking what if instead of reading books, there could be some sort of machine that create visuals according to the content for better understanding. In [this generative engine](https://experiments.runwayml.com/generative_engine/) created with RunwayML, they created a site that could do just that! <br/> 
+
+Now I'm starting to understand how I should and could think big for the project pitch. If an idea I thought was impossible was made possible somehow, the amount of possibilities this assignment has is limitless.
