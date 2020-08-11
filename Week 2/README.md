@@ -6,10 +6,10 @@ Before our class, we were given a task to create an algorithm that will help or 
 And for this, I have chosen to include an algorithm in the way I select my music. <br />
 <img src="https://i.ibb.co/kDn1dNM/Screenshot-2020-08-06-at-8-09-07-PM.png" alt="Screenshot-2020-08-06-at-8-09-07-PM" border="0">
 
-So with this algorithm, I was able to roll a dice and let the algorithm pick a music streaming site, genre, playlist, & even decide the amount of skips I am allowed to have if I didn't like the song. It was a really interesting process and I felt like I could have extended it to other parts of my day. For instance, time of day where I will listen to music, or the amount of time I would have to listen to the chosen playlist or maybe even to whether I would have to listen to music on that particular day. It was an interesting experience for me and I felt as if using an algorithm could really help with decision based processes especially if you are an indecisive person.
+So with this algorithm, I was able to roll a dice and let the algorithm pick a music streaming site, genre, playlist, & even decide the amount of skips I am allowed to have if I didn't like the song. It was a really interesting process and I felt like I could have extended it to other parts of my day. For instance, time of day where I will listen to music, or the amount of time I would have to listen to the chosen playlist or maybe even to whether I would have to listen to music on that particular day. It was an interesting experience for me and I felt as if using an algorithm could really help with decision based processes especially if you are an indecisive person. <br />
 
 As for the outcome, I ended up listening to classical tunes on iHeart Radio. <br />
-<img src="https://i.ibb.co/WpSnwFp/Screenshot-2020-08-06-at-8-17-02-PM.png" alt="Screenshot-2020-08-06-at-8-17-02-PM" border="0">
+<img src="https://i.ibb.co/WpSnwFp/Screenshot-2020-08-06-at-8-17-02-PM.png" alt="Screenshot-2020-08-06-at-8-17-02-PM" border="0"> <br />
 
 
 ## In Class Activity
