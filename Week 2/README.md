@@ -20,7 +20,7 @@ Attached below is my self portrait. I coded this so that there would be a backgr
 
 <img src="https://i.ibb.co/pP55rC2/ezgif-com-crop-1.gif" alt="ezgif-com-crop-1" border="0">
 <br />
-I then remixed Yasmin's static portrait so that there would be a background change, and that the flowers will rotate whenever the cursor moves as well. It was super interesting to figure out how to make sure the three flower rotations would stay in their respective places. I then found the [resetMatrix(); function,](https://funprogramming.org/30-Multiple-rotating-objects-and-reset-matrix.html) which resets each translation, so it would be possible to do multiple translations and rotations which I thought was really enlightening.
+I then remixed Yasmin's static portrait so that there would be a background change, and that the flowers will rotate whenever the cursor moves as well. It was super interesting to figure out how to make sure the three flower rotations would stay in their respective places. I then found the [resetMatrix(); function] (https://funprogramming.org/30-Multiple-rotating-objects-and-reset-matrix.html) which resets each translation, so it would be possible to do multiple translations and rotations which I thought was really enlightening.
 <br />
 <br />
 <img src="https://i.ibb.co/VNqPy0J/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">
