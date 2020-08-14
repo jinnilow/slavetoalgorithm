@@ -41,7 +41,8 @@ As for my topic, I wanted to definitely dive into the idea of memory more, or mo
 
 From my brainstorming I recognised the underlying similarity in all three topics. I wanted to challenge the idea of memories and how our brain perceives as a combined topic and I wanted the outcome to start conversations or challenge a person’s perception. In the end, I came up with an almost open-ended idea on what I would like my speculative project to be. <br /> 
 
-My idea was an immersive digital experience that somehow shows how our senses are related to our memories & how they can help evoke certain memories. It could be in the form of a data sculpture or painting, I wasn’t too fixated on setting the output design as of yet. <br /> 
+My idea was an immersive digital experience that somehow shows how our senses are related to our memories & how they can help evoke certain memories. It could be in the form of a data sculpture or painting, I wasn’t too fixated on setting the output design as of yet. <br />  <br /> 
+<img src="https://i.ibb.co/X2DNgV3/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0"> <br />  <br /> 
 
 The main inspiration that actually drove this idea was when I was walking on the street a few years back and walked past a man who had a similar cologne to the one my sister usually wears. The thing about my sister is that she rarely visits my family and I, and just that one whiff immediately brought me back a happy, nostalgic moment where I almost felt like I was back in that memory where she would come visit and we would have so much fun. <br /> 
 
