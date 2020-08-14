@@ -2,7 +2,7 @@
 
 ## Processing in class
 
-In this week’s class, we had a full-on processing session where we learnt how to include images and interactive elements in it, as well as including text and rotating it into a short animation. <br />
+In this week’s class, we had a full-on processing session where we learnt how to include images and interactive elements in it, as well as including text and rotating it into a short animation. 
 
 There were so many new functions and ideas that we have learnt in this class. For example for the sketch that included our image, we use the random function - which was really interesting to figure and learn and which I feel would be integrated into our upcoming projects as well, along with the mapping function, which is a really cool function to know as it can be used to map anything basically. And lastly, the get function, which reads the colour on any pixel and the transparent function… <br />
 
