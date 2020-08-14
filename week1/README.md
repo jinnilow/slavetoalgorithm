@@ -8,7 +8,11 @@ In this algorithm, we wanted to create six different categories based on differe
 
 So, we would roll the dice six times and collect these data to form an artwork. In total, we did three whole rounds to create three drawings each. All of us had similar elements for each round, but because we all drew our own individual artwork, our outcomes slightly differed. 
 
-<img src="https://i.ibb.co/qWYg18D/Screenshot-2020-07-29-at-7-25-05-PM.png" alt="Screenshot-2020-07-29-at-7-25-05-PM" border="0">
+<p float="left">
+  <<img src="https://i.ibb.co/qyQr4dL/Cam-Scanner-07-24-2020-16-35-14-1.jpg" alt="Cam-Scanner-07-24-2020-16-35-14-1" border="0"> width="100" />
+  <<img src="https://i.ibb.co/wQ4SMwM/Cam-Scanner-07-24-2020-16-35-14-2.jpg" alt="Cam-Scanner-07-24-2020-16-35-14-2" border="0"> width="100" /> 
+  <<img src="https://i.ibb.co/bKTJd8h/Cam-Scanner-07-24-2020-16-37-40-1.jpg" alt="Cam-Scanner-07-24-2020-16-37-40-1" border="0"> width="100" />
+</p>
 
 Through this exercise, it was definitely easier to understand how parametric design work. By setting ‘parameters’ or structured rules of some sort, these artworks could be randomly generated according to the rules. Of course, I would hope for the computer generated outcomes to be much better than my drawings. I have also realised that parametric systems can be non-computational as well.
 
