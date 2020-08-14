@@ -53,7 +53,7 @@ I was also researching on artworks that provoked our senses, and I remember this
 
 <img src="https://i.ibb.co/CP2dJ3q/exhi049775.jpg" alt="exhi049775" border="0"> <br /> 
 <sub>Building the “Smellscape”, 2018</sub>
-<br /> 
+<br /> <br /> 
 
 I also found this [exhibition by Google in Milan](https://www.wallpaper.com/design/google-a-space-for-being-salone-del-mobile-2019), where they created three rooms of different interior designs. Users are prompted to wear this band that could track the feelings you receive upon exploring the different rooms, and could eventually tell you which room/ interior design is “healthiest” for you. <br /> 
 
@@ -61,7 +61,7 @@ Lauren Mccarthy’s [work](https://lauren-mccarthy.com/The-Changing-Room), “Th
 <br /> 
 <img src="https://i.ibb.co/k23J4dg/Screenshot-2020-08-14-at-7-11-49-PM.png" alt="Screenshot-2020-08-14-at-7-11-49-PM" border="0"> <br /> 
 <sub>The Changing Room, 2017</sub>
-<br /> 
+<br /> <br /> 
 
 ## In-Class Discussion
 
