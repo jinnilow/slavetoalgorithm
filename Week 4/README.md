@@ -52,7 +52,8 @@ I wanted this experience to show how we visually experience things through our s
 I was also researching on artworks that provoked our senses, and I remember this one time I went to NGV and they had [smelling pods](https://www.ngv.vic.gov.au/multimedia/sissel-tolaas/#:~:text=Sissel%20Tolaas-,NGV%20Triennial,memories%20of%20time%20and%20place.&text=The%20audience%20is%20invited%20to%20guess%20what%20each%20smell%20is.), where each pod gave off a different scent of the city of Melbourne. I thought this work was so interesting, and it actually gave me the hope that my idea was somewhat possible. <br /> 
 
 <img src="https://i.ibb.co/CP2dJ3q/exhi049775.jpg" alt="exhi049775" border="0"> <br /> 
-<br /> 
+<sub>This was just a miracle</sub>
+<br /> <br /> 
 
 I also found this [exhibition by Google in Milan](https://www.wallpaper.com/design/google-a-space-for-being-salone-del-mobile-2019), where they created three rooms of different interior designs. Users are prompted to wear this band that could track the feelings you receive upon exploring the different rooms, and could eventually tell you which room/ interior design is “healthiest” for you. <br /> 
 
