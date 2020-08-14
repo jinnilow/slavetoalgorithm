@@ -1,6 +1,6 @@
-#Week 4 Content
+# Week 4 Content
 
-##Processing in class
+## Processing in class
 
 In this week’s class, we had a full-on processing session where we learnt how to include images and interactive elements in it, as well as including text and rotating it into a short animation. <br />
 
