@@ -16,7 +16,7 @@ Here was how mine looked like in the process.
 In the next example, Karen taught us how to include text in our sketches, and to rotate them while fading at the same time… As well as creating shapes around the rotation… We learnt about the smooth function, how to load a font, and to rotate the text, which enforced our memory from the previous weeks as well, when Karen first taught us how to rotate an object. It was a nice feeling to be able to understand what went on this time round.
 
 <br /> <br />
-<img src="https://i.ibb.co/pvFVXvK/Screenshot-2020-08-14-at-1-33-48-PM.png" alt="Screenshot-2020-08-14-at-1-33-48-PM" border="0" width="500"/> <img src="https://i.ibb.co/McZjHc1/Screenshot-2020-08-14-at-2-08-06-PM.png" alt="Screenshot-2020-08-14-at-2-08-06-PM" border="0" width="500"/>
+<img src="https://i.ibb.co/pvFVXvK/Screenshot-2020-08-14-at-1-33-48-PM.png" alt="Screenshot-2020-08-14-at-1-33-48-PM" border="0" width="450"/> <img src="https://i.ibb.co/McZjHc1/Screenshot-2020-08-14-at-2-08-06-PM.png" alt="Screenshot-2020-08-14-at-2-08-06-PM" border="0" width="450"/>
 <br /> <br /> 
 
 To make things more advanced, we then created a [sketch](https://github.com/jinnilow/slavetoalgorithm/tree/master/Processing/draw_font) where we could draw the letters, and we could change the background colour as well. We learnt how to set random variables (to create random characters, size, colours)  as well as for integers and floats. There was so much to learn, and I definitely want to explore these functions further and try to create my own artwork. 
