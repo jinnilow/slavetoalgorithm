@@ -43,9 +43,9 @@ From my brainstorming I recognised the underlying similarity in all three topics
 My idea was an immersive digital experience that somehow shows how our senses are related to our memories & how they can help evoke certain memories. It could be in the form of a data sculpture or painting, I wasn’t too fixated on setting the output design as of yet. <br /> <br /> 
 <img src="https://i.ibb.co/X2DNgV3/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0"> <br /> <br /> 
 
-The main inspiration that actually drove this idea was when I was walking on the street a few years back and walked past a man who had a similar cologne to the one my sister usually wears. The thing about my sister is that she rarely visits my family and I, and just that one whiff immediately brought me back a happy, nostalgic moment where I almost felt like I was back in that memory where she would come visit and we would have so much fun. 
+The main inspiration that drove this idea was when I was walking on the street a few years back and walked past a man who had a similar cologne to the one my sister usually wears. The thing about my sister is that she rarely visits my family and I, and just that one whiff immediately brought me back to a happy, nostalgic moment where I almost felt like I was back in that memory where she would come visit and we would have so much fun. 
 
-But also in saying that, someone who sensed that smell could even had a completely different memory or feeling towards it, or maybe none at all. And I think that is what I find so interesting, how each person’s brain interprets stimuli differently based on that individual’s learning, memory, emotions, and expectations. 
+But also in saying that, someone who sensed that smell could even have a completely different memory or feeling towards it, or maybe none at all. And I think that is what I find so interesting, how each person’s brain interprets stimuli differently based on that individual’s learning, memory, emotions, and expectations. 
 
 I wanted this experience to show how we visually experience things through our senses, and how everyone has different perceptions to similar experiences. Maybe through this, people can understand how easily we can trick our brain or change our perspectives towards bad experiences? Or maybe even challenge the good ones?  
 
