@@ -28,7 +28,7 @@ When I researched on how our memories and senses are connected, I found [this vi
 
 In this [Ted Talk](https://www.youtube.com/watch?v=O4bGOvkkHcM) as well, as well, we learn about how sensory experiences play a huge role in creating memories or even deciding if a memory is good or bad, memorable or not. 
 <br /> <br /> 
-<img src="https://i.ibb.co/VNFD6WZ/Screenshot-2020-08-22-at-1-27-40-PM.png" alt="Screenshot-2020-08-22-at-1-27-40-PM" border="0" width="500"/>
+<img src="https://i.ibb.co/VNFD6WZ/Screenshot-2020-08-22-at-1-27-40-PM.png" alt="Screenshot-2020-08-22-at-1-27-40-PM" border="0" width="550"/>
 <br /> <br /> 
 
 
@@ -60,7 +60,7 @@ So, they take all the data from the EEG and then process it down to emotions. Th
 
 Yuichi Ikehata is an artist who explores the concept of memory as well, and how he views them as fragments. I admire how futuristic his [sculptures]( https://www.ignant.com/2017/04/10/disturbing-works-of-yuichi-ikehata/) look and how the artists again visualises something so abstract into something so real. It almost reminds me of the movie Inception, when pieces of the memory starts falling apart. The scary part of his work is that he adds realistic parts to his sculptures such as skin, eyes, hair and nails.
 <br /> <br /> 
-<img src="https://i.ibb.co/SnGL8Cs/Yuichi-Ikehata-Art-9-1440x1440.jpg" alt="Yuichi-Ikehata-Art-9-1440x1440" border="0">
+<img src="https://i.ibb.co/SnGL8Cs/Yuichi-Ikehata-Art-9-1440x1440.jpg" alt="Yuichi-Ikehata-Art-9-1440x1440" border="0" width="550"/>
 <br /> <br /> 
 
 In Blade Runner 2049 we also see the existence of the two machines (that of course, haven't yet existed in this world) that is able to look into your memory just by the person recalling it as well as a memory maker which can be visualised like a holographic. 
