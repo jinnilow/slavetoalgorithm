@@ -65,7 +65,7 @@ Yuichi Ikehata is an artist who explores the concept of memory as well, and how 
 
 In Blade Runner 2049 we also see the existence of the two machines (that of course, haven't yet existed in this world) that is able to look into your memory just by the person recalling it as well as a memory maker which can be visualised like a holographic. 
 <br /> <br /> 
-<img src="https://i.ibb.co/w6F7xGG/memory.jpg" alt="memory" border="0" width="450"/> <img src="https://i.ibb.co/nrz2xV8/memoryy.jpg" alt="memoryy" border="0" width="450"/>
+<img src="https://i.ibb.co/w6F7xGG/memory.jpg" alt="memory" border="0" width="450"/> <img src="https://i.ibb.co/nrz2xV8/memoryy.jpg" alt="memoryy" border="0" width="500"/>
 <br /> <br /> 
 
 
@@ -77,9 +77,9 @@ In this [demo with Windows mixed reality headset](https://www.youtube.com/watch?
 <br /> <br /> 
 
 A team of scientists based in Kyoto University created [a process that could reconstruct almost similar images by using AI EEG](https://thenewstack.io/mind-reading-ai-optimizes-images-reconstructed-brain-waves/). With the recent advances in AI, this deep neural network is now able to “decode “blocks” of complex thoughts, reconstruct memories or even videos as they are being watched in real time.” Although they are not able to completely remake the exact image, I thought the process was so interesting and eye opening.
-<br /> <br /> 
+<br /> <br /> <br /> 
 <img src="https://i.ibb.co/C6hv7hH/Feature.jpg" alt="Feature" border="0" width="550"/>
-<br /> <br /> 
+<br /> <br /> <br /> 
 
 There was also a [case study in NVIDIA](https://www.youtube.com/watch?v=p5U4NgVGAwg), where they used deep learning to create a smart paintbrush. With this paintbrush, users are able to create new pictures, just by drawing shapes. This is done by the neural networks filling in the details, not because we are telling them too, but because it learned it itself through learning the features from synthetic images.
 <br /> <br /> 
