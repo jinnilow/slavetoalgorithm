@@ -55,7 +55,7 @@ The process was that through the numbers (data input) from the EEG sensor, Theod
 
 So, they take all the data from the EEG and then process it down to emotions. Then, they get scores of each emotion, pick two of the most probable ones, assign a colour to each particle, and the data starts painting like brush strokes. 
 <br /> <br /> 
-<img src="https://i.ibb.co/Jds91Gd/Screenshot-2020-08-22-at-1-21-35-PM.png" alt="Screenshot-2020-08-22-at-1-21-35-PM" border="0" width="300"/> <img src="https://i.ibb.co/M7pJhFD/Screenshot-2020-08-22-at-1-22-04-PM.png" alt="Screenshot-2020-08-22-at-1-22-04-PM" border="0" width="300"/>
+<img src="https://i.ibb.co/zhQ54Qr/Screenshot-2020-08-22-at-2-04-42-PM.png" alt="Screenshot-2020-08-22-at-2-04-42-PM" border="0" width="450"/> <img src="https://i.ibb.co/yVn0S4H/Screenshot-2020-08-22-at-2-04-48-PM.png" alt="Screenshot-2020-08-22-at-2-04-48-PM" border="0" width="450"/>
 <br /> <br /> 
 
 Yuichi Ikehata is an artist who explores the concept of memory as well, and how he views them as fragments. I admire how futuristic his [sculptures]( https://www.ignant.com/2017/04/10/disturbing-works-of-yuichi-ikehata/) look and how the artists again visualises something so abstract into something so real. It almost reminds me of the movie Inception, when pieces of the memory starts falling apart. The scary part of his work is that he adds realistic parts to his sculptures such as skin, eyes, hair and nails.
