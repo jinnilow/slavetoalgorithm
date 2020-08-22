@@ -65,7 +65,7 @@ Yuichi Ikehata is an artist who explores the concept of memory as well, and how 
 
 In Blade Runner 2049 we also see the existence of the two machines (that of course, haven't yet existed in this world) that is able to look into your memory just by the person recalling it as well as a memory maker which can be visualised like a holographic. 
 <br /> <br /> 
-<img src="https://i.ibb.co/w6F7xGG/memory.jpg" alt="memory" border="0" width="450"/> <img src="https://i.ibb.co/nrz2xV8/memoryy.jpg" alt="memoryy" border="0" width="500"/>
+<img src="https://i.ibb.co/w6F7xGG/memory.jpg" alt="memory" border="0" width="450"/> <img src="https://i.ibb.co/nrz2xV8/memoryy.jpg" alt="memoryy" border="0" width="480"/>
 <br /> <br /> 
 
 
