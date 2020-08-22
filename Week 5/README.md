@@ -78,11 +78,31 @@ In this [demo with Windows mixed reality headset](https://www.youtube.com/watch?
 
 A team of scientists based in Kyoto University created [a process that could reconstruct almost similar images by using AI EEG](https://thenewstack.io/mind-reading-ai-optimizes-images-reconstructed-brain-waves/). With the recent advances in AI, this deep neural network is now able to “decode “blocks” of complex thoughts, reconstruct memories or even videos as they are being watched in real time.” Although they are not able to completely remake the exact image, I thought the process was so interesting and eye opening.
 <br /> <br /> 
-<img src="https://i.ibb.co/C6hv7hH/Feature.jpg" alt="Feature" border="0">
+<img src="https://i.ibb.co/C6hv7hH/Feature.jpg" alt="Feature" border="0" width="550"/>
 <br /> <br /> 
 
 There was also a [case study in NVIDIA](https://www.youtube.com/watch?v=p5U4NgVGAwg), where they used deep learning to create a smart paintbrush. With this paintbrush, users are able to create new pictures, just by drawing shapes. This is done by the neural networks filling in the details, not because we are telling them too, but because it learned it itself through learning the features from synthetic images.
 <br /> <br /> 
 <img src="https://i.ibb.co/n1JZKTQ/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0">
+<br /> <br /> 
+
+### In-Class Presentation and feedback 
+
+So here is my [final document for my pitch](https://docs.google.com/presentation/d/1aYJgzphTFDFjJedYYM231eBQLdzk1yX2QF4HpDem3_o/edit?usp=sharing) which outlines the introductory to our memories, how it was formed, case studies, my idea and how it works, along with materials needed & the potential outcomes. 
+
+I was satisfied with the outcome and am really excited to move forward with this idea. Cross fingers that I could work through this or gain a simpler solution to create this idea. With Karen’s feedback, she mentioned that it could be interesting to research more on scent, especially for Alzheimer patients, and how it is being used in therapy where their loved ones are encouraged to help bring back the patients memories by bringing a photograph or an object that could stimulate their memories. 
+
+Andy has also brought up a very interesting point of a passage he read in the book [“Déjà vu”](https://www.amazon.com/Deja-Vu-End-History-Futures/dp/1781686122). That the notion that memory is not what we make after we experience. But it is generated at the time of the experience. And in this book, it explains how we might think we have a Déjà vu. So let’s say when you take a snap of the food, instead of experiencing in the moment, you’re already having a memory of how it will taste, instead of truly experiencing it. And this might create the whole dejavu effect. So it is actually really interesting to see how technology now, plays a role in how we perceive our memories too. 
+
+And as a result, you can never truly experience being in the moment, unless you have suffer from brain injury and can never form long term memories, and so having no memories of previous experiences. 
+
+There was an artwork that also shows how an artist, William Utermohlen, suffers from Alzheimers and how the artwork of his self portraits throughout the years visually explains and shows how he feels like he is losing the one thing that he treasures so much, the depth and the understanding of oneself - one’s memories. 
+<br /> <br /> 
+<img src="https://i.ibb.co/z4mnD10/Screenshot-2020-08-22-at-2-21-54-PM.png" alt="Screenshot-2020-08-22-at-2-21-54-PM" border="0">
+<br /> <br /> 
+
+Minh has also introduced me to [Sarah Sze](https://www.ted.com/talks/sarah_sze_how_we_experience_time_and_memory_through_art/transcript), who is also an inspiring artist where she explores how she shows and creates installations that enables audience to experience how she experiences time and memory, as well as engaging audiences to participate with the concept as well.
+<br /> <br /> 
+<img src="https://i.ibb.co/Ydm0CNN/Screenshot-2020-08-22-at-2-15-02-PM.png" alt="Screenshot-2020-08-22-at-2-15-02-PM" border="0">
 <br /> <br /> 
 
