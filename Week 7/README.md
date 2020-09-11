@@ -23,7 +23,7 @@ So we thought of a web-based project that would help with memory building. First
 
 The third idea was to create a digital data sculpture based on the emotional memory. So first the user would have to try and verbally explain what they feel about the memory or what they remember, and this would generate a digital sculpture of different colours and textures and shapes. To even bring this further, the end result could possibly be 3D printed as a tangible memory. 
 <br/><br/> 
-<img src="https://i.ibb.co/2tDVPDR/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0">
+<img src="https://i.ibb.co/2tDVPDR/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0" width="500"/>
 <br/><br/> 
 
 ### Refining the Idea
@@ -32,12 +32,12 @@ I ended up selecting the second idea and had to continue refining it. After a lo
 
 When I did my research for facial tracking emotions, Python was mainly recommended and I felt really overwhelmed as I do not know how to use Python and do not intend to learn it within the span of 5 weeks.
 <br/><br/> 
-<img src="https://i.ibb.co/f25X8BX/Screenshot-2020-09-11-at-1-05-03-PM.png" alt="Screenshot-2020-09-11-at-1-05-03-PM" border="0">
+<img src="https://i.ibb.co/f25X8BX/Screenshot-2020-09-11-at-1-05-03-PM.png" alt="Screenshot-2020-09-11-at-1-05-03-PM" border="0" width="500"/>
 <br/><br/> 
 
 And so, I decided to have a chat with Linsy- she used to be in Slave to Algorithm as well and created an interactive mirror using facial tracking. Through discussing with her, we managed to come up with a simpler method to be done through Javascript. This brought me such relief that at least it can be possibly done with the resources I know. 
 <br/><br/> 
-<img src="https://i.ibb.co/D4nwv3S/IMG-3038.png" alt="IMG-3038" border="0">
+<img src="https://i.ibb.co/D4nwv3S/IMG-3038.png" alt="IMG-3038" border="0" width="500"/>
 <br/><br/> 
 
 Through this, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
@@ -45,3 +45,64 @@ Through this, I went on to research facial expression tracking through p5js and 
 <img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0"> <br /> 
 <sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub>
 <br /> <br /> 
+
+<img src="https://i.ibb.co/6RHkbjF/Screenshot-2020-09-10-at-10-08-37-PM.png" alt="Screenshot-2020-09-10-at-10-08-37-PM" border="0"> <br /> 
+<sub> [201107 Open Processing sketch by Takawo](https://www.openprocessing.org/sketch/942983) </sub>
+<br /> <br /> 
+
+& I also found one that generated visual forms, through motion tracking and facial expressions.
+<br /> <br /> 
+<img src="https://i.ibb.co/Xx4Sqvw/Screenshot-2020-09-10-at-10-35-41-PM.png" alt="Screenshot-2020-09-10-at-10-35-41-PM" border="0"> <br /> 
+<sub> [Triangle Camera Open Processing sketch](https://www.openprocessing.org/sketch/813371) </sub>
+<br /> <br /> 
+
+<img src="https://i.ibb.co/5McQXXS/Screenshot-2020-09-11-at-10-15-12-PM.png" alt="Screenshot-2020-09-11-at-10-15-12-PM" border="0"><br /> 
+<sub> [emojiCV by Spencer Lee James](https://spencerleejames.com/project/emojicv) </sub>
+<br /> <br /> 
+
+So I guess my next big challenge would be to actually understand how the code works and to figure out how to translate these emotions & connect them to a database of visuals to generate some form of digital art if possible. As for the visual forms I was thinking of combining different shapes/colours and textures. I was [reading this article](https://hi.stamen.com/the-shapes-of-emotions-72c3851143e2) that basically talked about the psychology of how shapes/ colours/ textures/ even intensity in height and colour can represent an emotion.
+<br /> <br /> 
+<img src="https://i.ibb.co/yQdXcBb/1-m-QCOKXy1-L-el-X7y-Pxq10-LQ.gif" alt="1-m-QCOKXy1-L-el-X7y-Pxq10-LQ" border="0"><br /> 
+<sub> The Shape of Emotions, 2016</sub>
+<br /> <br /> 
+
+I also saw this Open Processing sketch that I felt matched the kind of visual that I wanted to achieve as an output.
+<br /> <br /> 
+<img src="https://i.ibb.co/G99Bc6k/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0"> <br /> 
+<sub> [Bursting Open Processing sketch by Roni Kaufman](https://www.openprocessing.org/sketch/838545) </sub>
+<br /> <br /> 
+
+### Pseudocode 
+
+To understand how pseudocode works, we did an activity in class where we tried writing an activity in our day using pseudocode.
+
+FUNCTION grocery shopping
+INPUT weather
+IF  wind>20km/h
+     Don’t go out
+
+IF wind<20km/h
+    Go out 
+
+THEN  walk to the supermarket
+WHILE  listening to music
+
+END IF  trip to supermarket is successful
+
+I am not too sure if I did this completely right, but it did give me a brief idea as to how pseudocode works and how it can simplify & make a person understand how to work the code better. I have also created a flowchart for my project so that I can visually understand how I can create a pseudocode out of it.
+<br /> <br /> 
+<img src="https://i.ibb.co/TYNWYCF/Screenshot-2020-09-11-at-1-52-25-PM.png" alt="Screenshot-2020-09-11-at-1-52-25-PM" border="0">
+<br /> <br /> 
+
+### Processing 
+
+For this week’s class, we learnt how to generate random letters while it moves rapidly in its own placement. We also learnt how to do this in javascript which will be really handy for me as I was thinking of randomly generating visuals as well.
+<br /> <br /> 
+<img src="https://i.ibb.co/9bsGPQy/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0">
+<br /> <br /> 
+
+We then made a few iterations, ones that can bounce off the borders as well as ones that increase in size as we type. The really interesting one was the one that could generate type as you type on the keyboard. This actually gave me the idea that along with the generated visual, users can generate a brief description of their memory along with the generated visual, and it will almost become this sort of final art piece/ commemorative of their memory. It would be cool to figure out if users could delete and edit their text in case they made a mistake.
+<br /> <br /> 
+<img src="https://i.ibb.co/Dtp9vP6/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0">
+<br /> <br /> 
+
