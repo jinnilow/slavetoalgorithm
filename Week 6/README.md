@@ -34,7 +34,7 @@ It was also really interesting to see [Anouk Wipprecht & Viktoria Modesta’s So
 
 Another one of the art pieces that stood out to me was [Stranger Visions by Heather Dewey-Hagborg.]( https://deweyhagborg.com/projects/stranger-visions) She made the artwork into an experience of really touching into humanity and connecting with strangers. I really like this sort of concept where it almost seem creepy and surreal. I am also really amazed with her trail of thoughts from collecting DNA to computationally generating 3d printed life size full color portraits. It is so interesting to see how science and art can be combined, and how the artist herself actually researched more about it by taking a crash course on biology. This created a new sense of respect as it shows how she really dug deep to understand and create the art she makes.
 <br /> <br /> 
-<img src="https://i.ibb.co/wcyf7YB/HEADER-e1501868714447-w8iomf.jpg" alt="HEADER-e1501868714447-w8iomf" border="0"> <br /> 
+<img src="https://i.ibb.co/LvhqZVM/Screenshot-2020-09-11-at-11-53-02-AM.png" alt="Screenshot-2020-09-11-at-11-53-02-AM" border="0"> <br /> 
 <sub>Stranger Visions, 2014</sub>
 <br /> <br /> 
 
