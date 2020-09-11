@@ -20,3 +20,28 @@ So we thought of a web-based project that would help with memory building. First
 <br/><br/> 
 <img src="https://i.ibb.co/tQCG4cv/1.jpg" alt="1" border="0" width="320"/> <img src="https://i.ibb.co/bdpBDJC/2.jpg" alt="2" border="0" width="320"/> <img src="https://i.ibb.co/0Zft1Wj/Untitled-Artwork-2.jpg" alt="Untitled-Artwork-2" border="0" width="320"/> <img src="https://i.ibb.co/0DvFKz1/Untitled-Artwork-3.jpg" alt="Untitled-Artwork-3" border="0" width="320"/> <img src="https://i.ibb.co/Bjy7Sn7/Untitled-Artwork-4.jpg" alt="Untitled-Artwork-4" border="0" width="320"/>
 <br/><br/> 
+
+The third idea was to create a digital data sculpture based on the emotional memory. So first the user would have to try and verbally explain what they feel about the memory or what they remember, and this would generate a digital sculpture of different colours and textures and shapes. To even bring this further, the end result could possibly be 3D printed as a tangible memory. 
+<br/><br/> 
+<img src="https://i.ibb.co/2tDVPDR/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0">
+<br/><br/> 
+
+### Refining the Idea
+
+I ended up selecting the second idea and had to continue refining it. After a lot of research, I realised that it might’ve been still quite ambitious to do everything mentioned in the second idea as I would have to learn how to code an interactive website, facial track users and turn them into readable emotions, prompt open ended questions which meant having to create a database of visuals for both the emotions and the text input. Then, I would also have to learn how to generate a 3D trail of thought/ mind map visual. Basically, there is too much that needs to be done within 5 weeks. And so, I have decided to simplify the whole idea. 
+
+When I did my research for facial tracking emotions, Python was mainly recommended and I felt really overwhelmed as I do not know how to use Python and do not intend to learn it within the span of 5 weeks.
+<br/><br/> 
+<img src="https://i.ibb.co/f25X8BX/Screenshot-2020-09-11-at-1-05-03-PM.png" alt="Screenshot-2020-09-11-at-1-05-03-PM" border="0">
+<br/><br/> 
+
+And so, I decided to have a chat with Linsy- she used to be in Slave to Algorithm as well and created an interactive mirror using facial tracking. Through discussing with her, we managed to come up with a simpler method to be done through Javascript. This brought me such relief that at least it can be possibly done with the resources I know. 
+<br/><br/> 
+<img src="https://i.ibb.co/D4nwv3S/IMG-3038.png" alt="IMG-3038" border="0">
+<br/><br/> 
+
+Through this, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
+<br /> <br /> 
+<img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0"> <br /> 
+<sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub>
+<br /> <br /> 
