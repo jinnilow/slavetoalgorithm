@@ -45,7 +45,8 @@ So my current project would still essentially show what a person might feel when
 After my conversation with Linsy, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
 <br /> <br /> 
 <img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0" width="500"/> <br /> 
-<sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub>
+<sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub> <img src="https://i.ibb.co/6RHkbjF/Screenshot-2020-09-10-at-10-08-37-PM.png" alt="Screenshot-2020-09-10-at-10-08-37-PM" border="0" width="500"/> <br /> 
+<sub> [201107 Open Processing sketch by Takawo](https://www.openprocessing.org/sketch/942983) </sub>
 <br /> <br /> 
 
 <img src="https://i.ibb.co/6RHkbjF/Screenshot-2020-09-10-at-10-08-37-PM.png" alt="Screenshot-2020-09-10-at-10-08-37-PM" border="0" width="500"/> <br /> 
