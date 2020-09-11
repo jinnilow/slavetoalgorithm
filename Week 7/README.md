@@ -36,11 +36,13 @@ When I did my research for facial tracking emotions, Python was mainly recommend
 <br/><br/> 
 
 And so, I decided to have a chat with Linsy- she used to be in Slave to Algorithm as well and created an interactive mirror using facial tracking. Through discussing with her, we managed to come up with a simpler method to be done through Javascript. This brought me such relief that at least it can be possibly done with the resources I know. 
+
+So my current project would still essentially show what a person might feel when thinking of a memory. I was thinking of creating the tool through Processing & so basically the experience would start of with the user trigger a memory through any kind of sensory experience, so either smelling a scent etc and the tool would essentially track the facial expression and translate it to emotions. The data for that could then generate a digital model to visually represent the emotional memory. 
 <br/><br/> 
-<img src="https://i.ibb.co/D4nwv3S/IMG-3038.png" alt="IMG-3038" border="0" width="500"/>
+<img src="https://i.ibb.co/17pGQng/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">
 <br/><br/> 
 
-Through this, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
+After my conversation with Linsy, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
 <br /> <br /> 
 <img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0"> <br /> 
 <sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub>
