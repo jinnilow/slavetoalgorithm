@@ -39,12 +39,12 @@ And so, I decided to have a chat with Linsy- she used to be in Slave to Algorith
 
 So my current project would still essentially show what a person might feel when thinking of a memory. I was thinking of creating the tool through Processing & so basically the experience would start of with the user triggering a memory through any kind of sensory experience, so either smelling a scent etc and the tool would essentially track the facial expression and translate it to emotions. The data for that could then generate a digital model to visually represent the emotional memory. 
 <br/><br/> 
-<img src="https://i.ibb.co/17pGQng/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0"width="800"/>
+<img src="https://i.ibb.co/17pGQng/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0" width="800"/>
 <br/><br/> 
 
 After my conversation with Linsy, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
 <br /> <br /> 
-<img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0"width="500"/> <br /> 
+<img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0" width="500"/> <br /> 
 <sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub>
 <br /> <br /> 
 
