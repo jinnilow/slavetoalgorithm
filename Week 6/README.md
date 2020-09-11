@@ -20,7 +20,7 @@ This is the paper prototype I did for Super Marios Bro.
 ### Karen's Presentation
 
 Karen then did a presentation on artists that used tracking or sensor in their art pieces. The one that really stood out to me was [Michaela Gleave’s participative art based on celestial data.](https://michaelagleave.com/projects#/a-galaxy-of-suns-spectra/
-) It was really refreshing to see an artist use the data not only digitally, but as a performance piece as well. She related the data to sound as an output but I like how she took into consideration of the whole atmosphere as well, maybe as a sign to represent the galaxy on planet earth. She also made it very accessible by creating a smartphone app for everyone to use, and so her creativity also enhances the user experience. Her creativity is really inspiring.
+) It was really refreshing to see an artist use the data not only digitally, but as a performance piece as well. She related the data to sound as an output but I like how she took into consideration of the whole atmosphere as well, maybe as a sign to represent the galaxy on planet earth. She also made it very accessible by creating a smartphone app for everyone to use, and so her inclusivity to enhance the user experience is also really inspiring.
 <br /> <br /> 
 <img src="https://i.ibb.co/bL9CKPd/SDUFF-ANAT-520.jpg" alt="SDUFF-ANAT-520" border="0"> <br /> 
 <sub>A Galaxy of Suns, 2018</sub>
