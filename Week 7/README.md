@@ -44,22 +44,21 @@ So my current project would still essentially show what a person might feel when
 
 After my conversation with Linsy, I went on to research facial expression tracking through p5js and found many codes that have managed to track emotions through facial tracking  quite accurately.
 <br /> <br /> 
-<img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0" width="500"/> <br /> 
-<sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub> <img src="https://i.ibb.co/6RHkbjF/Screenshot-2020-09-10-at-10-08-37-PM.png" alt="Screenshot-2020-09-10-at-10-08-37-PM" border="0" width="500"/> <br /> 
-<sub> [201107 Open Processing sketch by Takawo](https://www.openprocessing.org/sketch/942983) </sub>
+<img src="https://i.ibb.co/KxVX4rM/Screenshot-2020-09-10-at-9-43-38-PM.png" alt="Screenshot-2020-09-10-at-9-43-38-PM" border="0" width="800"/> <br /> 
+<sub> [p5.js Face Tracking with Dots](https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX) </sub> 
 <br /> <br /> 
 
-<img src="https://i.ibb.co/6RHkbjF/Screenshot-2020-09-10-at-10-08-37-PM.png" alt="Screenshot-2020-09-10-at-10-08-37-PM" border="0" width="500"/> <br /> 
+<img src="https://i.ibb.co/6RHkbjF/Screenshot-2020-09-10-at-10-08-37-PM.png" alt="Screenshot-2020-09-10-at-10-08-37-PM" border="0" width="800"/> <br /> 
 <sub> [201107 Open Processing sketch by Takawo](https://www.openprocessing.org/sketch/942983) </sub>
 <br /> <br /> 
 
 & I also found one that generated visual forms, through motion tracking and facial expressions.
 <br /> <br /> 
-<img src="https://i.ibb.co/Xx4Sqvw/Screenshot-2020-09-10-at-10-35-41-PM.png" alt="Screenshot-2020-09-10-at-10-35-41-PM" border="0" width="500"/> <br /> 
+<img src="https://i.ibb.co/Xx4Sqvw/Screenshot-2020-09-10-at-10-35-41-PM.png" alt="Screenshot-2020-09-10-at-10-35-41-PM" border="0" width="800"/> <br /> 
 <sub> [Triangle Camera Open Processing sketch](https://www.openprocessing.org/sketch/813371) </sub>
 <br /> <br /> 
 
-<img src="https://i.ibb.co/5McQXXS/Screenshot-2020-09-11-at-10-15-12-PM.png" alt="Screenshot-2020-09-11-at-10-15-12-PM" border="0" width="500"/><br /> 
+<img src="https://i.ibb.co/5McQXXS/Screenshot-2020-09-11-at-10-15-12-PM.png" alt="Screenshot-2020-09-11-at-10-15-12-PM" border="0" width="800"/><br /> 
 <sub> [emojiCV by Spencer Lee James](https://spencerleejames.com/project/emojicv) </sub>
 <br /> <br /> 
 
@@ -94,7 +93,7 @@ END IF  trip to supermarket is successful
 
 I am not too sure if I did this completely right, but it did give me a brief idea as to how pseudocode works and how it can simplify & make a person understand how to work the code better. I have also created a flowchart for my project so that I can visually understand how I can create a pseudocode out of it.
 <br /> <br /> 
-<img src="https://i.ibb.co/TYNWYCF/Screenshot-2020-09-11-at-1-52-25-PM.png" alt="Screenshot-2020-09-11-at-1-52-25-PM" border="0" width="500"/>
+<img src="https://i.ibb.co/TYNWYCF/Screenshot-2020-09-11-at-1-52-25-PM.png" alt="Screenshot-2020-09-11-at-1-52-25-PM" border="0" width="600"/>
 <br /> <br /> 
 
 ### Processing 
