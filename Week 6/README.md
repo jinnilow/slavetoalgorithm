@@ -39,6 +39,8 @@ Another one of the art pieces that stood out to me was [Stranger Visions by Heat
 <br /> <br /> 
 
 ### Processing Activity
+
+For our Processing activity in class, we learnt how to integrate sound to our sketch, as well as use p5js for the first time. It was really cool to see the bigger possibilties that we could achieve through p5js, such as being able to view it in the web. We created moving visuals that followed our cursor, as well as music that moved along with the visual. I would probably have to look further into this as I felt that this was a bit more complicated than the previous sketches.
 <br /> <br /> 
 <img src="https://i.ibb.co/pf82VZd/Screenshot-2020-08-28-at-3-11-37-PM.png" alt="Screenshot-2020-08-28-at-3-11-37-PM" border="0">
 <br /> <br /> 
