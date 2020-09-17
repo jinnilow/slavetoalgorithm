@@ -99,8 +99,8 @@ Here is my pseudocode draft:-
 
      FUNCTION face tracking
 
-     INPUT face tracking<br /> 
-     IF face is detected<br /> 
+     INPUT face tracking 
+     IF face is detected
          THEN start emotion tracking<br /> 
      IF face is not detected<br /> 
      RETURN<br /> 
