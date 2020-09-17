@@ -97,60 +97,60 @@ I am not too sure if I did this completely right, but it did give me a brief ide
 <br /> <br /> 
 Here is my pseudocode draft:-
 
-FUNCTION face tracking
+     FUNCTION face tracking
 
-INPUT face tracking<br /> 
-IF face is detected<br /> 
-    THEN start emotion tracking<br /> 
-IF face is not detected<br /> 
-RETURN<br /> 
+     INPUT face tracking<br /> 
+     IF face is detected<br /> 
+         THEN start emotion tracking<br /> 
+     IF face is not detected<br /> 
+     RETURN<br /> 
 
-INPUT emotion tracking<br /> 
-IF eyes && mouth are smiling<br /> 
-     THEN detect feeling as happy<br /> 
-ELSE IF eyes && mouth are frowning<br /> 
-     THEN detect feeling as sad<br /> 
-ELSE IF eyebrows frown && mouth is slightly opened<br /> 
-     THEN detect feeling as anxious<br /> 
-ELSE IF eyebrows are furrowed && mouth is opened wide<br /> 
-     THEN detect feeling as anger<br /> 
-ELSE IF nose is scrunched && mouth is twitched<br /> 
-     THEN detect feeling as disgusted<br /> 
-ELSE IF there is no change<br /> 
-     THEN detect feeling as neutral<br /> 
-ELSE IF eyes expand && mouth is wide open<br /> 
-     THEN detect feeling as surprised<br /> 
+     INPUT emotion tracking<br /> 
+     IF eyes && mouth are smiling<br /> 
+          THEN detect feeling as happy<br /> 
+     ELSE IF eyes && mouth are frowning<br /> 
+          THEN detect feeling as sad<br /> 
+     ELSE IF eyebrows frown && mouth is slightly opened<br /> 
+          THEN detect feeling as anxious<br /> 
+     ELSE IF eyebrows are furrowed && mouth is opened wide<br /> 
+          THEN detect feeling as anger<br /> 
+     ELSE IF nose is scrunched && mouth is twitched<br /> 
+          THEN detect feeling as disgusted<br /> 
+     ELSE IF there is no change<br /> 
+          THEN detect feeling as neutral<br /> 
+     ELSE IF eyes expand && mouth is wide open<br /> 
+          THEN detect feeling as surprised<br /> 
 
-INPUT generated visuals<br /> 
-IF happy <br /> 
-    THEN spheres will appear <br /> 
-     FOR every percentage of happiness DO increase intensity of yellow colour && amount of spheres <br /> 
+     INPUT generated visuals<br /> 
+     IF happy <br /> 
+         THEN spheres will appear <br /> 
+          FOR every percentage of happiness DO increase intensity of yellow colour && amount of spheres <br /> 
 
-ELSE IF sad <br /> 
-     THEN cylinders will appear <br /> 
-     FOR every percentage of sadness DO increase intensity of blue colour && amount of cylinders <br /> 
+     ELSE IF sad <br /> 
+          THEN cylinders will appear <br /> 
+          FOR every percentage of sadness DO increase intensity of blue colour && amount of cylinders <br /> 
 
-ELSE IF anxious <br /> 
-     THEN wavy shapes will appear <br /> 
-     FOR every percentage of anxiousness DO increase intensity of purple colour && amount of shapes <br /> 
+     ELSE IF anxious <br /> 
+          THEN wavy shapes will appear <br /> 
+          FOR every percentage of anxiousness DO increase intensity of purple colour && amount of shapes <br /> 
 
-ELSE IF angry <br /> 
-     THEN cross ‘x’ shapes will appear <br /> 
-      FOR every percentage of anger DO increase intensity of red colour && amount of shapes <br /> 
+     ELSE IF angry <br /> 
+          THEN cross ‘x’ shapes will appear <br /> 
+           FOR every percentage of anger DO increase intensity of red colour && amount of shapes <br /> 
 
-ELSE IF disgusted <br /> 
-    THEN triangular prisms will appear<br /> 
-     FOR every percentage of the feeling DO increase intensity of green colour && amount of shapes <br /> 
- 
-ELSE IF feeling neutral <br /> 
-    THEN cubes will appear<br /> 
-     FOR every percentage of the feeling DO increase intensity of green colour && amount of shapes <br /> 
+     ELSE IF disgusted <br /> 
+         THEN triangular prisms will appear<br /> 
+          FOR every percentage of the feeling DO increase intensity of green colour && amount of shapes <br /> 
 
-ELSE IF feeling surprised <br /> 
-    THEN sparklers shape will appear <br /> 
-     FOR every percentage of the feeling DO increase intensity of bright pink colour && amount of shapes <br /> 
+     ELSE IF feeling neutral <br /> 
+         THEN cubes will appear<br /> 
+          FOR every percentage of the feeling DO increase intensity of green colour && amount of shapes <br /> 
 
-END IF
+     ELSE IF feeling surprised <br /> 
+         THEN sparklers shape will appear <br /> 
+          FOR every percentage of the feeling DO increase intensity of bright pink colour && amount of shapes <br /> 
+
+     END IF
 
 
 
