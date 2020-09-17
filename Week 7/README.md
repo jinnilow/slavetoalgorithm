@@ -103,8 +103,8 @@ INPUT face tracking<br />
 IF face is detected<br /> 
     THEN start emotion tracking<br /> 
 IF face is not detected<br /> 
-RETURN
-<br /> 
+RETURN<br /> 
+
 INPUT emotion tracking<br /> 
 IF eyes && mouth are smiling<br /> 
      THEN detect feeling as happy<br /> 
