@@ -95,6 +95,69 @@ I am not too sure if I did this completely right, but it did give me a brief ide
 <br /> <br /> 
 <img src="https://i.ibb.co/TYNWYCF/Screenshot-2020-09-11-at-1-52-25-PM.png" alt="Screenshot-2020-09-11-at-1-52-25-PM" border="0" width="600"/>
 <br /> <br /> 
+Here is my pseudocode draft:-
+
+FUNCTION face tracking
+
+INPUT face tracking
+IF face is detected
+    THEN start emotion tracking
+IF face is not detected
+RETURN
+
+INPUT emotion tracking
+IF eyes && mouth are smiling
+     THEN detect feeling as happy
+ELSE IF eyes && mouth are frowning
+     THEN detect feeling as sad
+ELSE IF eyebrows frown && mouth is slightly opened
+     THEN detect feeling as anxious
+ELSE IF eyebrows are furrowed && mouth is opened wide
+     THEN detect feeling as anger
+ELSE IF nose is scrunched && mouth is twitched
+     THEN detect feeling as disgusted
+ELSE IF there is no change
+     THEN detect feeling as neutral
+ELSE IF eyes expand && mouth is wide open
+     THEN detect feeling as surprised
+
+INPUT generated visuals
+IF happy 
+    THEN spheres will appear
+     FOR every percentage of happiness DO increase intensity of yellow colour && smoothness of the texture &&  
+     amount of spheres  
+
+ELSE IF sad
+     THEN cylinders will appear
+     FOR every percentage of sadness DO increase intensity of blue colour && intensity of curve &&   
+     amount of cylinders
+
+ELSE IF anxious
+     THEN wavy shapes will appear
+      FOR every percentage of anxiousness DO increase intensity of purple colour && waviness of shape && amount 
+      of shapes
+
+ELSE IF angry
+     THEN cross ‘x’ shapes will appear
+      FOR every percentage of anger DO increase intensity of red colour && size of shape && amount of shapes
+
+ELSE IF disgusted 
+    THEN triangular prisms will appear
+     FOR every percentage of the feeling DO increase intensity of green colour && distortion of shape && amount of 
+     shapes
+ 
+ELSE IF feeling neutral 
+    THEN cubes will appear
+     FOR every percentage of the feeling DO increase intensity of green colour && distortion of shape && amount of 
+     shapes
+
+ELSE IF feeling surprised (instant change of emotions) 
+    THEN sparklers shape will appear
+     FOR every percentage of the feeling DO increase intensity of bright pink colour && size && amount of shapes
+
+END IF
+
+
 
 ### Processing 
 
