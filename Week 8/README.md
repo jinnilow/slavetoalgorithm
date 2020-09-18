@@ -9,7 +9,7 @@ I then stumbled across [The Coding Train’s learning playlist on machine learni
 
 To start understanding machine learning, I was following the image classifying through the webcam tutorial posted by The Coding Train. However I couldn't get the image uploader to work as well as the text to display on the webcam screen instead of just showing it in the backend. 
 <br/><br/> 
-<img src="https://i.ibb.co/NYb0ggP/Screenshot-2020-09-18-at-1-08-36-PM-01.png" alt="Screenshot-2020-09-18-at-1-08-36-PM-01" border="0" width="500"/>
+<img src="https://i.ibb.co/NYb0ggP/Screenshot-2020-09-18-at-1-08-36-PM-01.png" alt="Screenshot-2020-09-18-at-1-08-36-PM-01" border="0">
 <br/><br/>
 
 
@@ -24,7 +24,7 @@ I was listening to other people’s feedbacks as well and found that p5.play for
 I might have to rethink my pseudocode to adapt to this new idea.
 
 Hun has also recommended me these few links to check out:
-[using 'Vida library'. just click the screen and set the static background and then move something] (https://editor.p5js.org/AndreasRef/sketches/8SwQk_ZWN)
+[using 'Vida library, just click the screen and set the static background and then move something] (https://editor.p5js.org/AndreasRef/sketches/8SwQk_ZWN)
 <br/><br/> 
 <img src="https://i.ibb.co/28rVH8c/Screenshot-2020-09-18-at-1-07-03-PM.png" alt="Screenshot-2020-09-18-at-1-07-03-PM" border="0">
 <br/><br/>
