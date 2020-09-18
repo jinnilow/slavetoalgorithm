@@ -152,7 +152,7 @@ Here is my pseudocode draft:-
      END IF
 
 
-<br /> 
+
 ### Processing 
 
 For this week’s class, we learnt how to generate random letters while it moves rapidly in its own placement. We also learnt how to do this in javascript which will be really handy for me as I was thinking of randomly generating visuals as well.
