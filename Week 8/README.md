@@ -14,3 +14,22 @@ To start understanding machine learning, I was following the image classifying t
 
 
 ## In-Class Feedback
+
+After talking about my progress and pseudocode, Karen and I were discussing about image classification and how maybe using image could be a better tool for my idea. We were thinking that there could still be a webcam for sure and also maybe an extra step for the users to confirm if the feelings guessed were correct. That could then confirm a final generated visual of the emotional memory?
+
+Although I will have to learn how to include another classification for the images to certain feelings like nostalgic, love, warmth, anxious, anger etc. I do agree that this will actually be a better way of interpreting memories.
+
+I was listening to other people’s feedbacks as well and found that p5.play for animation and three.js for 3D objects would be interesting aspects to further explore. I was also thinking that maybe instead of a webcam, the Text to Speech software could be better to voice out the feelings felt from the memory? 
+
+I might have to rethink my pseudocode to adapt to this new idea.
+
+Hun has also recommended me these few links to check out:
+[using 'Vida library'. just click the screen and set the static background and then move something] (https://editor.p5js.org/AndreasRef/sketches/8SwQk_ZWN)
+<br/><br/> 
+<img src="https://i.ibb.co/28rVH8c/Screenshot-2020-09-18-at-1-07-03-PM.png" alt="Screenshot-2020-09-18-at-1-07-03-PM" border="0">
+<br/><br/>
+
+and
+
+[colour tracking using colour](http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack
+) 
