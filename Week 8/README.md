@@ -35,7 +35,7 @@ and
 ) 
 <br/><br/>
 
-<b> Update
+<b> Update</b>
 
 I created a flowchart for a possible new idea after receiving feedback from Karen. This idea uses an image uploader and the machine would track emotions or feelings from the uploaded images. I was thinking that there could be a facial tracking as well for the machine to receive live data of what the person could be feeling at the moment.
 <br/><br/> 
