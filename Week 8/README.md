@@ -35,11 +35,19 @@ and
 ) 
 <br/><br/>
 
+### Update
+
+I created a flowchart for a possible new idea after receiving feedback from Karen. This idea uses an image uploader and the machine would track emotions or feelings from the uploaded images. I was thinking that there could be a facial tracking as well for the machine to receive live data of what the person could be feeling at the moment.
+<br/><br/> 
+<img src="https://i.ibb.co/PWgqHZC/Screenshot-2020-09-24-at-8-54-28-PM.png" alt="Screenshot-2020-09-24-at-8-54-28-PM" border="0">
+<br/><br/>
+<br/><br/>
+
 ## p5js Tutorial
 
 In this week’s class we learnt how to include a Text To Speech system. With Shuchen’s help, we progressed from laying out the text vertically to a well designed, subtitle-like design.  
 <br/><br/> 
-<img src="https://i.ibb.co/LC7m6GH/Screenshot-2020-09-18-at-2-50-19-PM.png" alt="Screenshot-2020-09-18-at-2-50-19-PM" border="0" width="800"/><br /> 
+<img src="https://i.ibb.co/LC7m6GH/Screenshot-2020-09-18-at-2-50-19-PM.png" alt="Screenshot-2020-09-18-at-2-50-19-PM" border="0" width="500"/><br /> 
 <sub> Getting the text to speech function to work. </sub>
 <br/><br/>
 <br/><br/>
