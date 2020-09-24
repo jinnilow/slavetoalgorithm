@@ -58,3 +58,5 @@ In this week’s class we learnt how to include a Text To Speech system. With Sh
 <img src="https://i.ibb.co/THC3cXV/Screenshot-2020-09-18-at-3-53-25-PM.png" alt="Screenshot-2020-09-18-at-3-53-25-PM" border="0">
 <sub> Karen's code of making shapes appear along with the text as well. </sub>
 <br/><br/>
+<br/><br/>
+While processing this sketch, I was also thinking about my capstone project and how I can maybe include this function into my capstone project idea. I was thinking of visualising how I can show how conversations are really important to me and how I’m usually inspired by ideas when I converse to other people. With this thought in mind, I was thinking I could possibly create a project where I could have live conversations with other people and the machine could generate visuals from it through the text to speech function. 
