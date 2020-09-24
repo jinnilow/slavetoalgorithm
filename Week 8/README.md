@@ -33,3 +33,13 @@ and
 
 [colour tracking using colour](http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack
 ) 
+
+## p5js Tutorial
+
+In this week’s class we learnt how to include a Text To Speech system. With Shuchen’s help, we progressed from laying out the text vertically to a well designed, subtitle-like design.  
+<br/><br/> 
+<img src="https://i.ibb.co/28rVH8c/Screenshot-2020-09-18-at-1-07-03-PM.png" alt="Screenshot-2020-09-18-at-1-07-03-PM" border="0">
+<br/><br/>
+<br/><br/>
+<img src="https://i.ibb.co/NFcGXQ4/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0">
+<br/><br/>
