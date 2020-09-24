@@ -33,13 +33,20 @@ and
 
 [colour tracking using colour](http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack
 ) 
+<br/><br/>
 
 ## p5js Tutorial
 
 In this week’s class we learnt how to include a Text To Speech system. With Shuchen’s help, we progressed from laying out the text vertically to a well designed, subtitle-like design.  
 <br/><br/> 
-<img src="https://i.ibb.co/LC7m6GH/Screenshot-2020-09-18-at-2-50-19-PM.png" alt="Screenshot-2020-09-18-at-2-50-19-PM" border="0" width="800"/>
+<img src="https://i.ibb.co/LC7m6GH/Screenshot-2020-09-18-at-2-50-19-PM.png" alt="Screenshot-2020-09-18-at-2-50-19-PM" border="0" width="800"/><br /> 
+<sub> Getting the text to speech function to work. </sub>
 <br/><br/>
 <br/><br/>
-<img src="https://i.ibb.co/NFcGXQ4/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0">
+<img src="https://i.ibb.co/NFcGXQ4/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"><br /> 
+<sub> Making the text only appear in one line along with a neater design. </sub>
+<br/><br/>
+<br/><br/>
+<img src="https://i.ibb.co/THC3cXV/Screenshot-2020-09-18-at-3-53-25-PM.png" alt="Screenshot-2020-09-18-at-3-53-25-PM" border="0">
+<sub> Karen's code of making shapes appear along with the text as well. </sub>
 <br/><br/>
