@@ -28,10 +28,11 @@ Karen's suggestions were:
 
 2. Could have user type in their memory first then prompt them based on a scale from 1-10 on how strongly they feel about each feeling.
 
-<br /> <br /> 
+
 <img src="https://i.ibb.co/PQWJkwV/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0"><br /> 
-<sub>Combination on suggestions #1 and #2 </sub>
-<br /> <br /> 
+<sub>Combination of suggestions #1 and #2 </sub>
+<br />  
+<br />
 
 3. Could play around with different fonts & textures for different emotions as well to add some dynamicity to the final outcome. 
 <br/> 
