@@ -16,7 +16,7 @@ My alternatives would be either to:
 2. Simplify the animations into singular shapes and colours to make the final outcome look more cohesive.
 
 3. Have 2 different pages (so that it almost looks like a book spread), and have text on right side and visuals on the other.
-
+<br/> 
 
 ## In Class Feedback
 
@@ -29,7 +29,7 @@ Karen's suggestions were:
 2. Could have user type in their memory first then prompt them based on a scale from 1-10 on how strongly they feel about each feeling.
 
 3. Could play around with different fonts & textures for different emotions as well to add some dynamicity to the final outcome. 
-
+<br/> 
 
 Andy's suggestions were:
 
@@ -39,7 +39,17 @@ Andy's suggestions were:
 2. Encouraged to still use animations but maybe rethink the connection of each element to the feelings stated. Do they represent each feeling well enough? 
 
 3. Have a go with playing around with the typeface and giving them more character. 
-
+<br/> 
 
 
 ## Inspiration
+
+When I thought about Karen's suggestions, I ran across this spread and thought about how nice it would be if I could separate the text and visual element into a spread and have the algorithm spread the text into different paragraphs or even randomising it across the page. I was also thinking if the visuals could be this abstract, so instead of being quite literal with the translation of the feelings, to make it abstract with maybe different colours and brush strokes to represent each feeling.
+<br /> <br /> 
+<img src="https://i.ibb.co/fYTqNSF/IMG-3646.jpg" alt="IMG-3646" border="0" width="500"/> <img src="https://i.ibb.co/bdBvwhW/IMG-3647.jpg" alt="IMG-3647" border="0" width="500"/><br /> 
+<sub>Bastien Allard's works, posted on Instagram Story</sub>
+<br /> <br /> 
+
+After my consultation with Andy about this, he did mention that it is quite hard to make it into a spread, and that it would be better to focus on making the layout across the webpage instead of separating it into two different pages across one page. 
+
+I still really like the idea of having abstract pieces coming together to form one full painting, so I might maybe trial that out or even maybe continuing what I have but refining it a lot more. I will definitely have to work on the user experience and the text input by the coming week.
