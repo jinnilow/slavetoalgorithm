@@ -35,7 +35,7 @@ I have also trialed with different patterns like the [Phyllotaxis pattern](http:
 <img src="https://i.ibb.co/mN2cS6X/Screenshot-2020-10-08-at-4-03-49-PM.png" alt="Screenshot-2020-10-08-at-4-03-49-PM" border="0">
 <br /> <br /> 
 
-The only problem was that I couldn't get it to erase or return to 0 when I slide the slider back to 0.
+The only problem was that I couldn't get it to erase or return to 0 when I slide the slider back to 0..
 <br /> <br /> 
 
 <br /> <br /> 
