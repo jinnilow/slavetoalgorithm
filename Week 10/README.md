@@ -64,11 +64,11 @@ Here are my experimentations with the noise() function. All credits go to [The C
 <br /> <br /> 
 
 <br /> <br /> 
-              <br /> 
+<img src="https://i.ibb.co/Hp3sz4Q/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0"><br /> 
 <sub> Making the dots go according to the flow field </sub>
 <br /> <br /> 
 
 <br /> <br /> 
-              <br /> 
-<sub> Making the dots go according to the flow field </sub>
+<img src="https://i.ibb.co/nsJvDLV/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"><br /> 
+<sub> Creative noise pattern </sub>
 <br /> <br /> 
