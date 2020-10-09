@@ -70,5 +70,5 @@ Here are my experimentations with the noise() function. All credits go to [The C
 
 <br /> <br /> 
 <img src="https://i.ibb.co/nsJvDLV/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"><br /> 
-<sub> Creative noise pattern </sub>
+<sub> Creative noise pattern. </sub>
 <br /> <br /> 
