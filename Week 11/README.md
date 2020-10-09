@@ -31,12 +31,12 @@ Karen's suggestions were:
 
 <img src="https://i.ibb.co/PQWJkwV/Untitled-Artwork.jpg" alt="Untitled-Artwork" border="0">
 <sub>Combination of suggestions #1 and #2 </sub>
-<br />  
-<br />
+<br />  <br />
+
 
 3. Could play around with different fonts & textures for different emotions as well to add some dynamicity to the final outcome. 
-<br/> 
-<br/> 
+<br/> <br/> 
+
 
 Andy's suggestions were:
 
