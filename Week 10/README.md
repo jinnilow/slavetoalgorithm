@@ -15,4 +15,27 @@ There was another [mathematical flower formula](https://en.wikipedia.org/wiki/Ma
 <sub> Testing out the Maurer Rose formula </sub>
 <br /> <br /> 
 
+I then decided to combine both mathematical roses together to see how it would look. I made the Maurer Rose more thin so that the other rose would be more visible. I also added a speed function that animates both roses according to the speed, although this was too quick.
+<br /> <br /> 
+                    
+<br /> <br /> 
 
+This is after slowing down the speed and changing the colours as the orange looked too dull.
+<br /> <br /> 
+                      
+<br /> <br /> 
+
+Discovering the HSB colour mode function and managed to create a more dynamic colour set. I have also messed around with the noise() function to create grains as a texture for trauma.
+<br /> <br /> 
+<img src="https://i.ibb.co/nR97Z9S/Screenshot-2020-10-09-at-2-54-27-AM.png" alt="Screenshot-2020-10-09-at-2-54-27-AM" border="0">                      
+<br /> <br /> 
+
+I have also trialed with different patterns like the [Phyllotaxis pattern](http://algorithmicbotany.org/papers/abop/abop-ch4.pdf), using a set mathematical formula again.
+<br /> <br /> 
+<img src="https://i.ibb.co/mN2cS6X/Screenshot-2020-10-08-at-4-03-49-PM.png" alt="Screenshot-2020-10-08-at-4-03-49-PM" border="0">
+<br /> <br /> 
+
+The only problem was that I couldn't get it to erase or return to 0 when I slide the slider back to 0.
+<br /> <br /> 
+
+<br /> <br /> 
