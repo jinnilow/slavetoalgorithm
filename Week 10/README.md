@@ -59,7 +59,7 @@ This was another idea I had as a visual for the feeling of anger.
 
 Here are my experimentations with the noise() function. All credits go to [The Coding Challenge #24: Perlin Noise Flow Field](https://www.youtube.com/watch?v=BjoM9oKOAKY). I have learned so much from the one video. 
 <br /> <br /> 
-<img src="https://i.ibb.co/w0y8TRq/ezgif-com-video-to-gif-2.gif" alt="ezgif-com-video-to-gif-2" border="0"><br /> 
+<img src="https://i.ibb.co/x2HSWT4/Screenshot-2020-10-09-at-6-40-59-PM.png" alt="Screenshot-2020-10-09-at-6-40-59-PM" border="0"><br /> 
 <sub> Creating a flow field </sub>
 <br /> <br /> 
 
@@ -69,6 +69,6 @@ Here are my experimentations with the noise() function. All credits go to [The C
 <br /> <br /> 
 
 <br /> <br /> 
-<img src="https://i.ibb.co/nsJvDLV/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"><br /> 
+<img src="https://i.ibb.co/GkM4yvp/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"><br /> 
 <sub> Creative noise pattern. </sub>
 <br /> <br /> 
