@@ -11,13 +11,13 @@ Here's my progress.
 
 There was another [mathematical flower formula](https://en.wikipedia.org/wiki/Maurer_rose) that I tried as well. The fill looks really interesting but I felt that the other one would suit the idea or feeling of 'love' more than this one.
 <br /> <br /> 
-             <br /> 
+<img src="https://i.ibb.co/zhmjPMz/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0"><br /> 
 <sub> Testing out the Maurer Rose formula </sub>
 <br /> <br /> 
 
 I then decided to combine both mathematical roses together to see how it would look. I made the Maurer Rose more thin so that the other rose would be more visible. I also added a speed function that animates both roses according to the speed, although this was too quick.
 <br /> <br /> 
-<img src="https://i.ibb.co/rQ65xcc/ezgif-com-video-to-gif-2.gif" alt="ezgif-com-video-to-gif-2" border="0">                 
+              
 <br /> <br /> 
 
 This is after slowing down the speed and changing the colours as the orange looked too dull.
