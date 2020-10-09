@@ -17,7 +17,7 @@ There was another [mathematical flower formula](https://en.wikipedia.org/wiki/Ma
 
 I then decided to combine both mathematical roses together to see how it would look. I made the Maurer Rose more thin so that the other rose would be more visible. I also added a speed function that animates both roses according to the speed, although this was too quick.
 <br /> <br /> 
-              
+<img src="https://i.ibb.co/kh1wbXG/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0">             
 <br /> <br /> 
 
 This is after slowing down the speed and changing the colours as the orange looked too dull.
@@ -37,29 +37,29 @@ I have also trialed with different patterns like the [Phyllotaxis pattern](http:
 
 The only problem was that I couldn't get it to erase or return to 0 when I slide the slider back to 0. 
 <br /> <br /> 
-
+<img src="https://i.ibb.co/ZKPM68p/ezgif-com-video-to-gif-4.gif" alt="ezgif-com-video-to-gif-4" border="0">
 <br /> <br /> 
 
 
 I had a similar problem with the sadness visual. I wanted to create these rain looking visuals that had trails to them and so I used the blend() function. However, when I used the slider, it couldn't erase the previous steps and just stopped the sketch until I moved the slider back on again.
 <br /> <br /> 
-
+<img src="https://i.ibb.co/LzKJPp4/ezgif-com-gif-maker-2.gif" alt="ezgif-com-gif-maker-2" border="0">
 <br /> <br /> 
 
 I ended up erasing the trail and using blue ellipses as the sadness visual. It was really interesting to learn the velocity as well as the gravity function, and how that can really create a difference in the sketch.
 <br /> <br /> 
-
+<img src="https://i.ibb.co/4Jzybs8/ezgif-com-video-to-gif-3.gif" alt="ezgif-com-video-to-gif-3" border="0">
 <br /> <br /> 
 
 
 This was another idea I had as a visual for the feeling of anger.
 <br /> <br /> 
-
+<img src="https://i.ibb.co/fvbh76c/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0">
 <br /> <br /> 
 
 Here are my experimentations with the noise() function. All credits go to [The Coding Challenge #24: Perlin Noise Flow Field](https://www.youtube.com/watch?v=BjoM9oKOAKY). I have learned so much from the one video. 
 <br /> <br /> 
-              <br /> 
+<img src="https://i.ibb.co/w0y8TRq/ezgif-com-video-to-gif-2.gif" alt="ezgif-com-video-to-gif-2" border="0"><br /> 
 <sub> Creating a flow field </sub>
 <br /> <br /> 
 
