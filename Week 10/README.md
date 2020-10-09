@@ -22,7 +22,7 @@ I then decided to combine both mathematical roses together to see how it would l
 
 This is after slowing down the speed and changing the colours as the orange looked too dull.
 <br /> <br /> 
-                      
+<img src="https://i.ibb.co/7kW8VN1/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0">                      
 <br /> <br /> 
 
 Discovering the HSB colour mode function and managed to create a more dynamic colour set. I have also messed around with the noise() function to create grains as a texture for trauma.
