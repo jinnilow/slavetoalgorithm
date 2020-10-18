@@ -70,7 +70,11 @@ Before I found the sketch by Richard Bourne, I had a few iterations that I did t
 <img src="https://i.ibb.co/Dfcyh7C/9.png" alt="9" border="0"><br />    
 <sub> Crazy lines </sub>
 <br /> <br /> 
-<img src="https://i.ibb.co/k2tGfqb/10.png" alt="10" border="0" width="450"/> <img src="https://i.ibb.co/nQ2kb9Y/10-1.gif" alt="10-1" border="0"width="350"/>   <br /> <br /> 
+<img src="https://i.ibb.co/k2tGfqb/10.png" alt="10" border="0"> 
+<br /> <br /> 
+<br /> <br /> 
+<img src="https://i.ibb.co/nQ2kb9Y/10-1.gif" alt="10-1" border="0">   
+<br /> <br /> 
 
 
 However, none of them was reaching and so with the sketch I found, I remixed the shapes into cones as they had this pointy sharp edge that reminds me of that angry feeling. 
@@ -101,6 +105,22 @@ Sad still remained the same from Week 10; I just randomised the colours so the r
 <br /> <br /> 
 <img src="https://i.ibb.co/4Nzbrj9/13.gif" alt="13" border="0">      
 <br /> <br /> 
+
+
+## NOSTALGIA
+
+With nostalgia, I knew I wanted to show a sort of sepia filter that goes on top of the visuals as the feelings increase. I initially wanted to just do a transparent yellowish-brown colour that overpowers the sketch along with some grain to make it look like an old film, but I also had the idea of adding an image looks like a lens flare to give that old school film vibe.
+<br /> <br /> 
+<img src="https://i.ibb.co/BLZ4tHQ/14-1.gif" alt="14-1" border="0"><br /> 
+<sub> Transparent filter with grain. </sub>      
+<br /> <br /> 
+<img src="https://i.ibb.co/dpz0sfq/14-2.png" alt="14-2" border="0"><br /> 
+<sub> Picking an image which has a lens flare. </sub>      
+<br /> <br /> 
+<img src="https://i.ibb.co/NZ61Npv/14-3.gif" alt="14-3" border="0"><br /> 
+<sub> Combining both the image and the filter to create the nostalgia visual. </sub>      
+<br /> <br /> 
+
 
 
 
