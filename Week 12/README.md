@@ -39,7 +39,7 @@ With this emotion, I initially used this radiating circle to express happiness, 
 <img src="https://i.ibb.co/chfGx5t/4.png" alt="4" border="0" width="500"/>        
 <br /> <br /> 
 
-I tried a few other sketches too, like the Phyllotaxis pattern in week 10 but it didn’t seem to work on the slider. So I revisited the mathematical rose iterations I did for the feeling of love, and decided to change the shape and make it yellow, to make it look like a happy sunflower. 
+I tried a few other sketches too, like the [Phyllotaxis pattern in week 10](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%2010) but it didn’t seem to work on the slider. So I revisited the mathematical rose iterations I did for the feeling of love, and decided to change the shape and make it yellow, to make it look like a happy sunflower. 
 <br /> <br /> 
 <img src="https://i.ibb.co/Nx4GKtg/5.png" alt="5" border="0">        
 <br /> <br /> 
@@ -64,7 +64,7 @@ With excitement, I changed the size and width of the cylinders to make it look l
 
 ## ANGER
 
-Before I found the sketch by Richard Bourne, I had a few iterations that I did to communicate this feeling. One was the crazy lines I did in week 10, and another was a burst of random shapes in red and black. 
+Before I found the sketch by Richard Bourne, I had a few iterations that I did to communicate this feeling. [One was the crazy lines I did in week 10](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%2010), and another was a burst of random shapes in red and black. 
 
 <br /> <br /> 
 <img src="https://i.ibb.co/Dfcyh7C/9.png" alt="9" border="0"><br />    
@@ -100,7 +100,7 @@ With the feeling of anxious, I was really stuck with how I could communicate thi
 
 ## SAD
 
-Sad still remained the same from Week 10; I just randomised the colours so the rain looked more dynamic and less flat.
+Sad still remained the same from [Week 10](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%2010); I just randomised the colours so the rain looked more dynamic and less flat.
 <br /> <br /> 
 <img src="https://i.ibb.co/4Nzbrj9/13.gif" alt="13" border="0">      
 <br /> <br /> 
@@ -123,7 +123,7 @@ With nostalgia, I knew I wanted to show a sort of sepia filter that goes on top 
 
 ## TRAUMA
 
-With trauma, I had a few iterations as well. I initially wanted to use the noise sketch that I did in week 10, but it didn’t feel good as I actually didn’t fully understand how the sketch worked. I did know though, that I wanted to use this scratchy texture and I ended up with this sketch of crazy lines going everywhere, which I initially wanted to use to represent the feeling of anger.
+With trauma, I had a few iterations as well. I initially wanted to use the [noise sketch that I did in week 10](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%2010), but it didn’t feel good as I actually didn’t fully understand how the sketch worked. I did know though, that I wanted to use this scratchy texture and I ended up with this sketch of crazy lines going everywhere, which I initially wanted to use to represent the feeling of anger.
 <br /> <br /> 
 <img src="https://i.ibb.co/S0PGTfn/15.png" alt="15" border="0"><br /> 
 <sub> First iteration for the feeling. </sub>
@@ -169,14 +169,6 @@ Combining all three pages together wasn’t easy. I tried using the show and hid
 <br /> <br /> 
 <img src="https://i.ibb.co/10kdmbv/19.png" alt="19" border="0" width="500"/>     
 <br /> <br /> 
-
-
-
-
-
-
-
-
 
 
 
