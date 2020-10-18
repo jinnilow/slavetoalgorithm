@@ -24,7 +24,7 @@ So, I decided to revisit the flower sketch, and make it a little thicker just be
 <img src="https://i.ibb.co/c8qSg1D/3-1.gif" alt="3-1" border="0"><br /> 
 <sub> Generating a flower </sub>             
 <br /> <br /> 
-<img src="https://i.ibb.co/WPFBFm3/3-2.gif" alt="3-2" border="0"><br /> 
+<img src="https://i.ibb.co/7bb8gZt/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0"><br /> 
 <sub> Rotating the flowers </sub>             
 <br /> <br /> 
 <img src="https://i.ibb.co/WVnpNJw/3-3.gif" alt="3-3" border="0"><br /> 
@@ -87,7 +87,7 @@ With the feeling of anxious, I was really stuck with how I could communicate thi
 <img src="https://i.ibb.co/bRzS0DS/12.gif" alt="12" border="0"><br /> 
 <sub> First iteration for the feeling. </sub>
 <br /> <br /> 
-<img src="https://i.ibb.co/23F5PPH/12-2.gif" alt="12-2" border="0"><br /> 
+<img src="https://i.ibb.co/QpvDxXR/ezgif-com-gif-maker-2.gif" alt="ezgif-com-gif-maker-2" border="0"><br /> 
 <sub> Trying to emulate the feeling of a heavy cloud. </sub>
 <br /> <br /> 
 <img src="https://i.ibb.co/R9gHhTJ/12-3.gif" alt="12-3" border="0"><br /> 
