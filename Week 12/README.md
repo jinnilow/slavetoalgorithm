@@ -140,9 +140,6 @@ With trauma, I had a few iterations as well. I initially wanted to use the noise
 
 Following Andy’s advise on framing the visuals, I combined all the visuals together and put them on a rectangular canvas. The createGraphics function was so helpful for this, and I was so happy that I also found how to separate each feeling into their own functions, so I can just easily recall them on the draw function. I did a few iterations on how I can frame them along with the sliders on Illustrator, just because its much easier to have everything planned out before you code. This is how my final framing look like! 
 <br /> <br /> 
-<img src="https://i.ibb.co/10kdmbv/19.png" alt="19" border="0" width="500"/><br /> 
-<sub> Calling the function for feelings into the draw function. </sub>
-<br /> <br /> 
 <img src="https://i.ibb.co/hsNhhCb/16-1.png" alt="16-1" border="0" width="500"/> <img src="https://i.ibb.co/bzrSthV/16-2.png" alt="16-2" border="0" width="500"/> 
 <img src="https://i.ibb.co/vQ4r0bH/16-3.png" alt="16-3" border="0" width="500"/> <img src="https://i.ibb.co/wgt5GBq/16-4.png" alt="16-4" border="0" width="500"/> <br /> 
 <sub> Layout concepts. </sub>
