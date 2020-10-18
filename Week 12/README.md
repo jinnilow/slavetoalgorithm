@@ -72,7 +72,6 @@ Before I found the sketch by Richard Bourne, I had a few iterations that I did t
 <br /> <br /> 
 <img src="https://i.ibb.co/k2tGfqb/10.png" alt="10" border="0"> 
 <br /> <br /> 
-<br /> <br /> 
 <img src="https://i.ibb.co/nQ2kb9Y/10-1.gif" alt="10-1" border="0">   
 <br /> <br /> 
 
@@ -120,6 +119,64 @@ With nostalgia, I knew I wanted to show a sort of sepia filter that goes on top 
 <img src="https://i.ibb.co/NZ61Npv/14-3.gif" alt="14-3" border="0"><br /> 
 <sub> Combining both the image and the filter to create the nostalgia visual. </sub>      
 <br /> <br /> 
+
+
+## TRAUMA
+
+With trauma, I had a few iterations as well. I initially wanted to use the noise sketch that I did in week 10, but it didn’t feel good as I actually didn’t fully understand how the sketch worked. I did know though, that I wanted to use this scratchy texture and I ended up with this sketch of crazy lines going everywhere, which I initially wanted to use to represent the feeling of anger.
+<br /> <br /> 
+<img src="https://i.ibb.co/S0PGTfn/15.png" alt="15" border="0"><br /> 
+<sub> First iteration for the feeling. </sub>
+<br /> <br /> 
+<img src="https://i.ibb.co/x8MMXzM/15-3.png" alt="15-3" border="0"><br /> 
+<sub> Trying to emulate the feeling of a heavy fog where you don't want to remember the memory. </sub>
+<br /> <br /> 
+<img src="https://i.ibb.co/Y0H7DvT/15-2-Screenshot-2020-10-16-at-11-16-24-PM.png" alt="15-2-Screenshot-2020-10-16-at-11-16-24-PM" border="0"><br /> 
+<sub> Final iteration. </sub>
+<br /> <br /> 
+
+
+## Framing the visuals
+
+Following Andy’s advise on framing the visuals, I combined all the visuals together and put them on a rectangular canvas. The createGraphics function was so helpful for this, and I was so happy that I also found how to separate each feeling into their own functions, so I can just easily recall them on the draw function. I did a few iterations on how I can frame them along with the sliders on Illustrator, just because its much easier to have everything planned out before you code. This is how my final framing look like! 
+<br /> <br /> 
+<img src="https://i.ibb.co/10kdmbv/19.png" alt="19" border="0" width="500"/><br /> 
+<sub> Calling the function for feelings into the draw function. </sub>
+<br /> <br /> 
+<img src="https://i.ibb.co/hsNhhCb/16-1.png" alt="16-1" border="0" width="500"/> <img src="https://i.ibb.co/bzrSthV/16-2.png" alt="16-2" border="0" width="500"/> 
+<img src="https://i.ibb.co/vQ4r0bH/16-3.png" alt="16-3" border="0" width="500"/> <img src="https://i.ibb.co/wgt5GBq/16-4.png" alt="16-4" border="0" width="500"/> <br /> 
+<sub> Layout concepts. </sub>
+<br /> <br /> 
+<img src="https://i.ibb.co/DPBS8f5/16-5.png" alt="16-5" border="0"><br /> 
+<sub> Final framing </sub>
+<br /> <br /> 
+
+
+## Coding
+
+Also, something that I realised in terms of code was that not everything looks the same on different screens if you use numbers to determine the position instead of for example (width/2 or height/2)… When I first base everything based on integers or decimals, I found that the positions looked way off on a smaller screen, and so I had to readjust all the positions based on ‘width’ and ‘height’.
+<br /> <br /> 
+<img src="https://i.ibb.co/G3vM4Sq/17.png" alt="17" border="0" width="500"/>     
+<br /> <br /> 
+
+I also wanted to make the user experience better as I figured that the experience isn’t as direct as I figured it would be. So, I redid my branding and created an extra page to explain more about the process. 
+<br /> <br /> 
+<img src="https://i.ibb.co/c2fYdCR/18-1.png" alt="18-1" border="0"><br /> 
+<sub> Redoing my branding. </sub>
+<br /> <br /> 
+<img src="https://i.ibb.co/tq86W8q/18-2.png" alt="18-2" border="0"><br /> 
+<sub> Explaining more about the process in the second page. </sub>
+<br /> <br /> 
+
+Combining all three pages together wasn’t easy. I tried using the show and hide function at the start, but it couldn’t work for some reason. I also tried changing the values of colours when mouse is pressed, but I realised that the text on the first page would still be on top of the second page, and it doesn’t hide the text at all. Luckily, I [found a code](https://editor.p5js.org/itsai0724/sketches/B1xmLvw6G) that shows how I could switch between the different canvases, and I found that extremely helpful.
+<br /> <br /> 
+<img src="https://i.ibb.co/10kdmbv/19.png" alt="19" border="0" width="500"/>     
+<br /> <br /> 
+
+
+
+
+
 
 
 
