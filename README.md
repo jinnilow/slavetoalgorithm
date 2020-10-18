@@ -2,9 +2,9 @@
 
 ## Student Knowledge Object
 
-Hello and welcome to my student knowledge object repository for the studio Slave To The Algorithm in RMIT, run by Karen Ann Donnachie! This houses all of the content from working record of studio activities to research and project progress.
+Hello and welcome to my student knowledge object repository for the studio Slave To The Algorithm in RMIT, run by Karen Ann Donnachie! This contains all of the content from working record of studio activities to research and project progress.
 
-Below you will find the links to each week, where I either talk about activities done in class, artist research/ inspiration and most definitely my project progress.
+Below you will find the links to each week, where I either talk about activities done in class, artist research/ inspiration and obstacles faced in coding my final project.
 
  - - - -
  
