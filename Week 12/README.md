@@ -6,7 +6,7 @@ Before my consultation with Karen and Andy, I really wanted to change the ideas 
 
 So I created a list just to make sure that I knew why I chose certain visuals for each emotion.
 <br /> <br /> 
-<img src="https://i.ibb.co/TKR5rxR/1.jpg" alt="1" border="0">           
+<img src="https://i.ibb.co/TKR5rxR/1.jpg" alt="1" border="0" width="500"/>           
 <br /> <br /> 
 
 
@@ -14,7 +14,7 @@ So I created a list just to make sure that I knew why I chose certain visuals fo
 
 With this emotion, I represented it last week with a flower like, bright pink visual. I really liked it, but I still felt like changing it. To me love, should multiply instead of a big round object.
 <br /> <br /> 
-<img src="https://i.ibb.co/FHwfzfb/2.png" alt="2" border="0">      
+<img src="https://i.ibb.co/FHwfzfb/2.png" alt="2" border="0" width="500"/>      
 <br /> <br /> 
 
 So, I decided to revisit the flower sketch, and make it a little thicker just because I felt the dots were also interfering with the excited visual, and wanted it to look more filled. I generated a few multiple flower images from the sketch, then animated the generated flowers by uploading the flower as an image and multiplying them on screen while rotating them in random sizes.
