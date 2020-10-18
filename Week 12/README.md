@@ -6,7 +6,7 @@ Before my consultation with Karen and Andy, I really wanted to change the ideas 
 
 So I created a list just to make sure that I knew why I chose certain visuals for each emotion.
 <br /> <br /> 
-<img src="https://i.ibb.co/TKR5rxR/1.jpg" alt="1" border="0" width="500"/>           
+<img src="https://i.ibb.co/TKR5rxR/1.jpg" alt="1" border="0">           
 <br /> <br /> 
 
 
@@ -21,14 +21,11 @@ So, I decided to revisit the flower sketch, and make it a little thicker just be
 <br /> <br /> 
 <img src="https://i.ibb.co/pbCjhbX/3.png" alt="3" border="0">              
 <br /> <br /> 
-<br /> <br /> 
 <img src="https://i.ibb.co/c8qSg1D/3-1.gif" alt="3-1" border="0"><br /> 
 <sub> Generating a flower </sub>             
 <br /> <br /> 
-<br /> <br /> 
 <img src="https://i.ibb.co/WPFBFm3/3-2.gif" alt="3-2" border="0"><br /> 
 <sub> Rotating the flowers </sub>             
-<br /> <br /> 
 <br /> <br /> 
 <img src="https://i.ibb.co/WVnpNJw/3-3.gif" alt="3-3" border="0"><br /> 
 <sub> To me, this felt more like love, and the animation reminds me of sakura flowers falling down on a spring day. </sub>
@@ -45,7 +42,6 @@ With this emotion, I initially used this radiating circle to express happiness, 
 I tried a few other sketches too, like the Phyllotaxis pattern in week 10 but it didn’t seem to work on the slider. So I revisited the mathematical rose iterations I did for the feeling of love, and decided to change the shape and make it yellow, to make it look like a happy sunflower. 
 <br /> <br /> 
 <img src="https://i.ibb.co/Nx4GKtg/5.png" alt="5" border="0">        
-<br /> <br /> 
 <br /> <br /> 
 <img src="https://i.ibb.co/0j82m4R/6.png" alt="6" border="0">         
 <br /> <br /> 
@@ -74,7 +70,6 @@ Before I found the sketch by Richard Bourne, I had a few iterations that I did t
 <img src="https://i.ibb.co/Dfcyh7C/9.png" alt="9" border="0"><br />    
 <sub> Crazy lines </sub>
 <br /> <br /> 
-<br /> <br /> 
 <img src="https://i.ibb.co/k2tGfqb/10.png" alt="10" border="0" width="450"/> <img src="https://i.ibb.co/nQ2kb9Y/10-1.gif" alt="10-1" border="0"width="450"/>   <br /> <br /> 
 
 
@@ -92,10 +87,8 @@ With the feeling of anxious, I was really stuck with how I could communicate thi
 <img src="https://i.ibb.co/bRzS0DS/12.gif" alt="12" border="0"><br /> 
 <sub> First iteration for the feeling. </sub>
 <br /> <br /> 
-<br /> <br /> 
 <img src="https://i.ibb.co/23F5PPH/12-2.gif" alt="12-2" border="0"><br /> 
 <sub> Trying to emulate the feeling of a heavy cloud. </sub>
-<br /> <br /> 
 <br /> <br /> 
 <img src="https://i.ibb.co/R9gHhTJ/12-3.gif" alt="12-3" border="0"><br /> 
 <sub> Final iteration. </sub>
