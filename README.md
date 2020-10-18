@@ -6,6 +6,8 @@ Hello and welcome to my student knowledge object repository for the studio Slave
 
 Below you will find the links to each week, where I either talk about activities done in class, artist research/ inspiration and most definitely my project progress.
 
+ - - - -
+ 
 * [Week 1](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%201)
 
 * [Week 2](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%202)
@@ -31,3 +33,4 @@ Below you will find the links to each week, where I either talk about activities
 * [Week 12](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%2012)
 
 * [Week 13](https://github.com/jinnilow/slavetoalgorithm/tree/master/Week%2013)
+
