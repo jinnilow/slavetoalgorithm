@@ -155,8 +155,15 @@ Also, something that I realised in terms of code was that not everything looks t
 <br /> <br /> 
 <img src="https://i.ibb.co/G3vM4Sq/17.png" alt="17" border="0" width="500"/>     
 <br /> <br /> 
-
 Another function lifesaver is the [push() & pop()](https://p5js.org/reference/#/p5/push) where it contains any transformations within a certain area in the code. I have used this so many times throughout the code as my sketch requires plenty of changes in angle modes, translation and rotations, so this was mega helpful. 
+
+Combining all three pages together wasn’t easy. I tried using the show and hide function at the start, but it couldn’t work for some reason. I also tried changing the values of colours when mouse is pressed, but I realised that the text on the first page would still be on top of the second page, and it doesn’t hide the text at all. Luckily, I [found a code](https://editor.p5js.org/itsai0724/sketches/B1xmLvw6G) that shows how I could switch between the different canvases, and I found that extremely helpful.
+<br /> <br /> 
+<img src="https://i.ibb.co/10kdmbv/19.png" alt="19" border="0" width="500"/>     
+<br /> <br /> 
+
+
+## User Experience
 
 I also wanted to make the user experience better as I figured that the experience isn’t as direct as I figured it would be. So, I redid my branding and created an extra page to explain more about the process. 
 <br /> <br /> 
@@ -165,11 +172,6 @@ I also wanted to make the user experience better as I figured that the experienc
 <br /> <br /> 
 <img src="https://i.ibb.co/tq86W8q/18-2.png" alt="18-2" border="0"><br /> 
 <sub> Explaining more about the process in the second page. </sub>
-<br /> <br /> 
-
-Combining all three pages together wasn’t easy. I tried using the show and hide function at the start, but it couldn’t work for some reason. I also tried changing the values of colours when mouse is pressed, but I realised that the text on the first page would still be on top of the second page, and it doesn’t hide the text at all. Luckily, I [found a code](https://editor.p5js.org/itsai0724/sketches/B1xmLvw6G) that shows how I could switch between the different canvases, and I found that extremely helpful.
-<br /> <br /> 
-<img src="https://i.ibb.co/10kdmbv/19.png" alt="19" border="0" width="500"/>     
 <br /> <br /> 
 
 
