@@ -70,7 +70,7 @@ Before I found the sketch by Richard Bourne, I had a few iterations that I did t
 <img src="https://i.ibb.co/Dfcyh7C/9.png" alt="9" border="0"><br />    
 <sub> Crazy lines </sub>
 <br /> <br /> 
-<img src="https://i.ibb.co/k2tGfqb/10.png" alt="10" border="0" width="450"/> <img src="https://i.ibb.co/nQ2kb9Y/10-1.gif" alt="10-1" border="0"width="450"/>   <br /> <br /> 
+<img src="https://i.ibb.co/k2tGfqb/10.png" alt="10" border="0" width="450"/> <img src="https://i.ibb.co/nQ2kb9Y/10-1.gif" alt="10-1" border="0"width="400"/>   <br /> <br /> 
 
 
 However, none of them was reaching and so with the sketch I found, I remixed the shapes into cones as they had this pointy sharp edge that reminds me of that angry feeling. 
