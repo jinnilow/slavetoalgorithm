@@ -19,7 +19,7 @@ designers, especially in terms of creating multiple iterations and making sure t
 
 This studio has pushed me in so many ways as well, and I am really grateful to have had started on creative coding, even to coding an entire functioning website. I feel like the process can be so mentally stimulating and definitely draining at the same time, but the outcome is so very rewarding. I have learnt so many functions and terms and layers to p5js as well as Processing, and I feel like this is just the beginning of something amazing.
 
-Learning about parametric systems and how we are carrying it out every day in our daily acitivities, generative design and the huge potential it brings, how an algorithm works and how to implement them in code… There have just been so much of learning and developing throughout these 12 weeks and I am so proud that we have all made it.
+Learning about parametric systems and how we are carrying it out every day in our daily activities, generative design and the huge potential it brings, how an algorithm works and how to implement them in code… There have just been so much of learning and developing throughout these 12 weeks and I am so proud that we have all made it.
 
 I am really glad to have been introduced to so many amazing artists as well that have implemented their own algorithmic system in their art pieces and exhibitions; this gives me the drive and motivation to create more, to speculate more into this field of design and to continue being inspired.
 
